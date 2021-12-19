@@ -1,17 +1,65 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
- </defs>
- <rect class="ColorScheme-Text" x="-20.43" y="-19.39" width="16" height="16" ry="0" opacity="0"/>
- <g id="16-16-kdf">
-  <rect x="-20" y="6" width="16" height="16" ry="0" opacity="0"/>
-  <path class="ColorScheme-Text" d="m-17 7c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4h-4v-4c0-2.2091 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z" fill="currentColor"/>
- </g>
- <g id="kdf">
-  <path d="m6 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm0 2h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 1h1v1h-1zm-3 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5zm5 10a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="#dedede"/>
-  <path d="m0 0h22v22h-22z" opacity="0"/>
-  <g fill="#dedede">
-   <circle cx="11" cy="12" r="2"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="kdf.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#c0c0c0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.506556"
+     inkscape:cx="6.9525583"
+     inkscape:cy="15.947431"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  </defs>
+  <g
+     id="16-16-kdf">
+    <rect
+       x="-20"
+       y="6"
+       width="16"
+       height="16"
+       ry="0"
+       opacity="0"
+       id="rect7" />
+    <path
+       class="ColorScheme-Text"
+       d="m-17 7c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4h-4v-4c0-2.2091 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z"
+       fill="currentColor"
+       id="path9" />
   </g>
- </g>
+  <g
+     id="kdf">
+    <path
+       id="path12"
+       d="M 6 2 C 4.892 2 4 2.892 4 4 L 4 18 C 4 19.108 4.892 20 6 20 L 16 20 C 17.108 20 18 19.108 18 18 L 18 4 C 18 2.892 17.108 2 16 2 L 6 2 z M 6 4 L 7 4 L 7 6 L 6 6 L 6 4 z M 8 4 L 9 4 L 9 6 L 8 6 L 8 4 z M 10 4 L 11 4 L 11 6 L 10 6 L 10 4 z M 12 4 L 13 4 L 13 6 L 12 6 L 12 4 z M 14 5 L 15 5 L 15 6 L 14 6 L 14 5 z M 11 7 A 5 5 0 0 1 16 12 A 5 5 0 0 1 11 17 A 5 5 0 0 1 6 12 A 5 5 0 0 1 11 7 z M 11 10 A 2 2 0 0 0 9 12 A 2 2 0 0 0 11 14 A 2 2 0 0 0 13 12 A 2 2 0 0 0 11 10 z M 16 17 A 1 1 0 0 1 17 18 A 1 1 0 0 1 16 19 A 1 1 0 0 1 15 18 A 1 1 0 0 1 16 17 z "
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       d="M 0,0 H 22 V 22 H 0 Z"
+       opacity="0"
+       id="path14" />
+  </g>
 </svg>
