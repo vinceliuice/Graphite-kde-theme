@@ -1,9 +1,9 @@
-## Canta KDE Theme
+## Graphite KDE Theme
 
-![1](canta-dark.png?raw=true)
-![2](canta-light.png?raw=true)
+![1](Graphite-dark.png?raw=true)
+![2](Graphite-light.png?raw=true)
 
-Canta kde is a flat Design theme for KDE Plasma desktop.
+Graphite kde is a flat Design theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -24,9 +24,9 @@ In this repository you'll find:
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Canta-light** theme.
+  Run `kvantummanager` to choose and apply **Graphite-light** theme.
 
-- For GTK app [Canta gtk theme](https://github.com/vinceliuice/Canta-theme).
+- For GTK app [Canta gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme).
 
 ## Donate
 
