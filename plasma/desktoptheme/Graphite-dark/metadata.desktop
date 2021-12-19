@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Graphite-dark
+X-KDE-PluginInfo-Author=Vinceliuice
+X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
+X-KDE-PluginInfo-Name=Graphite-dark
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Graphite-dark
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
+
+[AdaptiveTransparency]
+enabled=true
