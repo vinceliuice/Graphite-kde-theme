@@ -25,9 +25,9 @@
      inkscape:cx="66.644817"
      inkscape:cy="5.6568545"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1018"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg118">
     <inkscape:grid
@@ -149,7 +149,7 @@
      x="0"
      y="0"
      xlink:href="#shadow-topleft"
-     id="use2272"
+     id="shadow-bottomleft"
      transform="rotate(-90,66.000001,27.999998)"
      width="100%"
      height="100%" />

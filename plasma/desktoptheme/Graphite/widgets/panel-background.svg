@@ -23,12 +23,12 @@
      showgrid="false"
      inkscape:zoom="3.9999998"
      inkscape:cx="70.000004"
-     inkscape:cy="-0.75000004"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cy="39.250002"
+     inkscape:window-width="1486"
+     inkscape:window-height="946"
+     inkscape:window-x="172"
+     inkscape:window-y="129"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg118">
     <inkscape:grid
        type="xygrid"
@@ -149,7 +149,7 @@
      x="0"
      y="0"
      xlink:href="#shadow-topleft"
-     id="use2272"
+     id="shadow-bottomleft"
      transform="rotate(-90,66.000001,27.999998)"
      width="100%"
      height="100%" />
