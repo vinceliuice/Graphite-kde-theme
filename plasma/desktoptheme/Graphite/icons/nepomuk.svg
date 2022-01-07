@@ -1,9 +1,50 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
- </defs>
- <g id="nepomuk">
-  <rect width="22" height="22" opacity="0"/>
-  <path class="ColorScheme-Text" fill="currentColor" d="m12.42 4.08c-3.0288 0-5.5312 2.4746-5.5312 5.5 0 1.1499 0.38921 2.2078 1 3.0938l-3.8083 3.8087 1.4062 1.4375 3.8083-3.8087c0.88729 0.61091 1.973 0.96875 3.125 0.96875 3.0289 0 5.5-2.4746 5.5-5.5 0-3.0254-2.4711-5.5-5.5-5.5zm0 2c1.9474 0 3.5 1.5548 3.5 3.5 0 1.9451-1.5526 3.5-3.5 3.5-1.9474 0-3.5-1.5549-3.5-3.5 0-1.9452 1.5526-3.5 3.5-3.5z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="nepomuk.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#5c5c5c"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.89225"
+     inkscape:cx="14.295024"
+     inkscape:cy="12.907565"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  </defs>
+  <g
+     id="nepomuk"
+     transform="matrix(-1,0,0,1,22,-10)">
+    <path
+       id="path9"
+       d="M 0,10 V 32 H 22 V 10 Z"
+       style="fill:none" />
+    <path
+       d="M 9.5,14 A 5.5,5.5 0 0 0 4,19.5 5.5,5.5 0 0 0 9.5,25 5.5,5.5 0 0 0 12.617,24.031 l 3.662,3.662 A 1,1 0 0 0 17,28 1,1 0 0 0 18,27 1,1 0 0 0 17.697,26.283 l -3.67,-3.67 A 5.5,5.5 0 0 0 15,19.5 5.5,5.5 0 0 0 9.5,14 Z m 0,2 A 3.5,3.5 0 0 1 13,19.5 3.5,3.5 0 0 1 9.5,23 3.5,3.5 0 0 1 6,19.5 3.5,3.5 0 0 1 9.5,16 Z"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       id="path5" />
+  </g>
 </svg>
