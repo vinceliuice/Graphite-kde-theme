@@ -26,7 +26,7 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **Graphite-light** theme.
 
-- For GTK app [Canta gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme).
+- For GTK app [Graphite gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme).
 
 ## Donate
 
