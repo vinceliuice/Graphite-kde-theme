@@ -12,7 +12,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview21"
-     pagecolor="#525252"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -22,11 +22,11 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="false"
-     inkscape:zoom="8.1759222"
-     inkscape:cx="19.814279"
-     inkscape:cy="11.191398"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:zoom="5.78125"
+     inkscape:cx="29.059459"
+     inkscape:cy="10.983784"
+     inkscape:window-width="1368"
+     inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,10 +39,7 @@
      id="defs5">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#FFFFFF; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
-    <style
-       type="text/css"
-       id="style3" />
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
   </defs>
   <g
      id="view-refresh"
