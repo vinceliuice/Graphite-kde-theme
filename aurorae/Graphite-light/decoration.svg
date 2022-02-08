@@ -25,15 +25,15 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="2.3096774"
-     inkscape:cx="63.212291"
-     inkscape:cy="-50.223464"
+     inkscape:zoom="9.2387096"
+     inkscape:cx="25.977654"
+     inkscape:cy="56.934358"
      inkscape:window-width="1486"
      inkscape:window-height="974"
      inkscape:window-x="254"
      inkscape:window-y="11"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg162">
+     inkscape:current-layer="decoration-bottomleft">
     <inkscape:grid
        type="xygrid"
        id="grid1057" />
@@ -86,12 +86,12 @@
        y="-257" />
     <path
        id="rect1465"
-       style="fill:#333333;fill-opacity:1"
+       style="fill:#e0e0e0;fill-opacity:1"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#2c2c2c;fill-opacity:1" />
   </g>
   <g
      id="decoration-bottomleft"
@@ -107,7 +107,7 @@
        y="-192" />
     <path
        id="rect2029"
-       style="fill:#333333;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        d="M 8 65 C 8 66.108 8.892 67 10 67 L 38 67 L 38 65 L 8 65 z "
        transform="translate(59,-257)" />
   </g>
@@ -124,7 +124,7 @@
        x="97"
        y="-192" />
     <rect
-       style="fill:#333333;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7437"
        width="80"
        height="2"
@@ -144,14 +144,14 @@
        x="97"
        y="-257" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.835846;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.835846;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7271"
        width="80"
        height="28"
        x="97"
        y="-250" />
     <rect
-       style="fill:#333333;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7439"
        width="80"
        height="2"
@@ -171,14 +171,14 @@
        x="59"
        y="-222" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.511849;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.511849;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect1947"
        width="28"
        height="30"
        x="69"
        y="-222" />
     <rect
-       style="fill:#333333;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7441"
        width="30"
        height="2"
@@ -187,7 +187,7 @@
        transform="rotate(90)" />
   </g>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.865183;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.865183;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
      id="decoration-center"
      width="80"
      height="30"

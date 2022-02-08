@@ -2,17 +2,17 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=GraphiteLight
+ColorScheme=GraphiteNordLight
 
 [kdeglobals][Icons]
 Theme=Tela-circle
 
 [plasmarc][Theme]
-name=Graphite-light
+name=Graphite-nord-light
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Graphite-light-round
 
 [kcminputrc][Mouse]
-cursorTheme=Graphite-light-cursors
+cursorTheme=Graphite-light-nord-cursors

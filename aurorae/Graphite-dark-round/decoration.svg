@@ -25,11 +25,11 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="1"
-     inkscape:cx="1"
-     inkscape:cy="209.5"
-     inkscape:window-width="1368"
-     inkscape:window-height="699"
+     inkscape:zoom="4"
+     inkscape:cx="57.125"
+     inkscape:cy="57.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,55 @@
        type="xygrid"
        id="grid1057" />
   </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-Background {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-Highlight {
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-ViewText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-ViewHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ViewFocus{
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-ButtonText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-ButtonHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#333333;
+        stop-color:#333333;
+      }</style>
+  </defs>
   <defs
      id="defs40" />
   <use
@@ -78,12 +127,14 @@
        y="-257" />
     <path
        id="rect1465"
-       style="fill:#e0e0e0;fill-opacity:1"
-       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z" />
+       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
-       style="fill:#2c2c2c;fill-opacity:1" />
+       class="ColorScheme-Background"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-bottom"
@@ -98,19 +149,21 @@
        x="97"
        y="-192" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7437"
        width="80"
        height="2"
        x="97"
-       y="-192" />
+       y="-192"
+       class="ColorScheme-Text"
+       fill="currentColor" />
     <rect
-       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.499513;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect11337"
        width="80"
        height="10"
        x="97"
-       y="-202" />
+       y="-202"
+       class="ColorScheme-Background"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-top"
@@ -125,19 +178,21 @@
        x="97"
        y="-257" />
     <rect
-       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.835846;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7271"
        width="80"
        height="28"
        x="97"
-       y="-250" />
+       y="-250"
+       class="ColorScheme-Background"
+       fill="currentColor" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7439"
        width="80"
        height="2"
        x="97"
-       y="-252" />
+       y="-252"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-left"
@@ -152,28 +207,31 @@
        x="59"
        y="-222" />
     <rect
-       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.511849;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect1947"
        width="28"
        height="30"
        x="69"
-       y="-222" />
+       y="-222"
+       class="ColorScheme-Background"
+       fill="currentColor" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7441"
        width="30"
        height="2"
        x="-222"
        y="-69"
-       transform="rotate(90)" />
+       transform="rotate(90)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
   <rect
-     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.865183;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
      id="decoration-center"
      width="80"
      height="30"
      x="38"
-     y="35" />
+     y="35"
+     class="ColorScheme-Background"
+     fill="currentColor" />
   <use
      x="0"
      y="0"
@@ -188,29 +246,21 @@
        width="38"
        height="22"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAWCAYAAACsR+4DAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA
-GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAatJREFUSIm1ldlOwzAQRU+Wbmzi
-ASTEA+L//w5BKaRtwkNmlMvglCRtLF3ZSVzP6bXHkwE5UABL4Bq4Bx6BZ+AFeLX+CXgA7oCNzc9N
-GRduufWN9DVwNB1E/q62eQ0ztlwC1CKF2psUUMFmgVTH1K09UJm+TVUAdOdmabmMHcxdqoAvYCdS
-QN/ahhlcK+gOrh/kElgAK9MGuALW9ry07wX9h//sZFCwjC5DI9xKwBb2XaEunpWFQDmYwpW0Drkc
-qpA/FaHi1jZTVMiC6pxvk8MVYRyd0uRJ6dS3pBRMAdU9BXVp88B6zx2DDmNVSoBGAuxpM/CTdvv0
-XCHBvoFbuuRYiqtZ0KhWhme9yyrSTtUBfEtbyjb8TY4+sH9BU2Dqml4lDuVO7YAP2tp5Y2BrfidI
-PIuDnYtgDqcVwBfTdwr2RudY3M5Trk0CwyD0nVaGinYL3wUqbuXFwVJwCqaObQXIq4JeK6kEGATY
-BxbhomMOl7p8+9wa5diQybqwVwW9cFUxiycd/DGTdfFYurSPQLOD9QE6ZGoc508KdM7vIkgfzKyO
-DVmjb81RsX4AmK66c4NYqzAAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAWCAYAAACsR+4DAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAatJREFUSIm1ldlOwzAQRU+Wbmzi ASTEA+L//w5BKaRtwkNmlMvglCRtLF3ZSVzP6bXHkwE5UABL4Bq4Bx6BZ+AFeLX+CXgA7oCNzc9N GRduufWN9DVwNB1E/q62eQ0ztlwC1CKF2psUUMFmgVTH1K09UJm+TVUAdOdmabmMHcxdqoAvYCdS QN/ahhlcK+gOrh/kElgAK9MGuALW9ry07wX9h//sZFCwjC5DI9xKwBb2XaEunpWFQDmYwpW0Drkc qpA/FaHi1jZTVMiC6pxvk8MVYRyd0uRJ6dS3pBRMAdU9BXVp88B6zx2DDmNVSoBGAuxpM/CTdvv0 XCHBvoFbuuRYiqtZ0KhWhme9yyrSTtUBfEtbyjb8TY4+sH9BU2Dqml4lDuVO7YAP2tp5Y2BrfidI PIuDnYtgDqcVwBfTdwr2RudY3M5Trk0CwyD0nVaGinYL3wUqbuXFwVJwCqaObQXIq4JeK6kEGATY BxbhomMOl7p8+9wa5diQybqwVwW9cFUxiycd/DGTdfFYurSPQLOD9QE6ZGoc508KdM7vIkgfzKyO DVmjb81RsX4AmK66c4NYqzAAAAAASUVORK5CYII= "
        id="image11310"
        x="0"
        y="65"
        style="opacity:0.25" />
     <path
        id="rect1363"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.37483"
-       d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z" />
+       d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
     <path
        id="rect955"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
-       style="fill:#2c2c2c;fill-opacity:1" />
+       class="ColorScheme-Background"
+       fill="currentColor" />
   </g>
   <use
      x="0"
