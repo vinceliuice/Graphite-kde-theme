@@ -5,7 +5,7 @@
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,19 +25,68 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="9.2387096"
-     inkscape:cx="25.977654"
-     inkscape:cy="56.934358"
-     inkscape:window-width="1486"
-     inkscape:window-height="974"
-     inkscape:window-x="254"
-     inkscape:window-y="11"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="decoration-bottomleft">
+     inkscape:zoom="2.3096774"
+     inkscape:cx="98.931565"
+     inkscape:cy="-11.040503"
+     inkscape:window-width="1440"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg162">
     <inkscape:grid
        type="xygrid"
        id="grid1057" />
   </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-Background {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-Highlight {
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-ViewText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ViewFocus{
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-ButtonText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-ButtonHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#333333;
+        stop-color:#333333;
+      }</style>
+  </defs>
   <defs
      id="defs40" />
   <use
@@ -86,12 +135,14 @@
        y="-257" />
     <path
        id="rect1465"
-       style="fill:#e0e0e0;fill-opacity:1"
-       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z" />
+       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
-       style="fill:#2c2c2c;fill-opacity:1" />
+       class="ColorScheme-Background"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-bottomleft"
@@ -107,9 +158,10 @@
        y="-192" />
     <path
        id="rect2029"
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        d="M 8 65 C 8 66.108 8.892 67 10 67 L 38 67 L 38 65 L 8 65 z "
-       transform="translate(59,-257)" />
+       transform="translate(59,-257)"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-bottom"
@@ -124,12 +176,13 @@
        x="97"
        y="-192" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7437"
        width="80"
        height="2"
        x="97"
-       y="-192" />
+       y="-192"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-top"
@@ -144,19 +197,21 @@
        x="97"
        y="-257" />
     <rect
-       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.835846;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7271"
        width="80"
        height="28"
        x="97"
-       y="-250" />
+       y="-250"
+       class="ColorScheme-Background"
+       fill="currentColor" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.223389;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7439"
        width="80"
        height="2"
        x="97"
-       y="-252" />
+       y="-252"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
   </g>
   <g
      id="decoration-left"
@@ -171,28 +226,31 @@
        x="59"
        y="-222" />
     <rect
-       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.511849;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect1947"
        width="28"
        height="30"
        x="69"
-       y="-222" />
+       y="-222"
+       class="ColorScheme-Background"
+       fill="currentColor" />
     <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.136797;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect7441"
        width="30"
        height="2"
        x="-222"
        y="-69"
-       transform="rotate(90)" />
+       transform="rotate(90)"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
   </g>
   <rect
-     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.865183;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
      id="decoration-center"
      width="80"
      height="30"
      x="38"
-     y="35" />
+     y="35"
+     class="ColorScheme-Background"
+     fill="currentColor" />
   <use
      x="0"
      y="0"

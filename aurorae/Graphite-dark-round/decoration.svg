@@ -5,7 +5,7 @@
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,11 +25,11 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="4"
-     inkscape:cx="57.125"
-     inkscape:cy="57.75"
-     inkscape:window-width="1920"
-     inkscape:window-height="997"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="46.492271"
+     inkscape:cy="4.7729708"
+     inkscape:window-width="1440"
+     inkscape:window-height="741"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,8 +51,8 @@
         stop-color:#2C2C2C;
       }
       .ColorScheme-Highlight {
-        color:#333333;
-        stop-color:#333333;
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
       }
       .ColorScheme-ViewText {
         color:#e0e0e0;
@@ -128,11 +128,11 @@
     <path
        id="rect1465"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
     <path
        id="rect1161"
-       d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
+       d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
        class="ColorScheme-Background"
        fill="currentColor" />
   </g>
@@ -154,7 +154,7 @@
        height="2"
        x="97"
        y="-192"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
     <rect
        id="rect11337"
@@ -191,7 +191,7 @@
        height="2"
        x="97"
        y="-252"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <g
@@ -221,7 +221,7 @@
        x="-222"
        y="-69"
        transform="rotate(90)"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <rect
@@ -254,7 +254,7 @@
     <path
        id="rect1363"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
     <path
        id="rect955"

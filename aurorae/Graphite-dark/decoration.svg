@@ -5,7 +5,7 @@
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,11 +25,11 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="4.6193549"
-     inkscape:cx="30.740223"
-     inkscape:cy="56.068435"
-     inkscape:window-width="1368"
-     inkscape:window-height="699"
+     inkscape:zoom="2.3096774"
+     inkscape:cx="98.931565"
+     inkscape:cy="-11.040503"
+     inkscape:window-width="1440"
+     inkscape:window-height="741"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,8 +51,8 @@
         stop-color:#2C2C2C;
       }
       .ColorScheme-Highlight {
-        color:#333333;
-        stop-color:#333333;
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
       }
       .ColorScheme-ViewText {
         color:#e0e0e0;
@@ -90,11 +90,35 @@
   <defs
      id="defs40" />
   <use
+     x="0"
+     y="0"
+     xlink:href="#g8777"
+     id="use8849"
+     transform="matrix(-1,0,0,1,360,0)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g8800"
+     id="use8853"
+     transform="matrix(-1,0,0,1,360,0)"
+     width="100%"
+     height="100%" />
+  <use
      id="decoration-topright"
      transform="matrix(-1,0,0,1,156,0)"
      width="100%"
      height="100%"
      xlink:href="#decoration-topleft"
+     x="0"
+     y="0" />
+  <use
+     id="decoration-bottomright"
+     transform="matrix(-1,0,0,1,156,0)"
+     width="100%"
+     height="100%"
+     xlink:href="#decoration-bottomleft"
      x="0"
      y="0" />
   <g
@@ -112,12 +136,52 @@
     <path
        id="rect1465"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
        class="ColorScheme-Background"
+       fill="currentColor" />
+  </g>
+  <g
+     id="decoration-bottomleft"
+     transform="translate(-59,257)">
+    <image
+       width="38"
+       height="12"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAMCAYAAAAOCs/+AAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAOtJREFUOI29011LwzAUh/Fft3a+ 4IUiDHz5/h9QnNN2W73oCQ1xihfNDgSSNpw8ff5pgxXW2OAW93jEE17xgmds8YA7XKFDk41Fqy3W I444oMceH3jHdQAMAdbGR1UDG2OcAuoYUJ/Y4S1Amni+M9ltXcBYDjcUUF3s6c3mNiZbydjilYOd zBF+BViycjBFehNQnYox5mDMUSZj6wA+mO5airSLd7mti0WZDkoW9+YLn6CqxZjAxgwir/SH9rGv NFUtxgR2DiafD35aqg5WNk7rBLAq5jlMNajfmpcHl3aaM3sXr78a/wegGtg3MN09jA983qkAAAAA SUVORK5CYII= "
+       id="image8734"
+       x="59"
+       y="-192" />
+    <path
+       id="rect2029"
+       d="M 8 65 C 8 66.108 8.892 67 10 67 L 38 67 L 38 65 L 8 65 z "
+       transform="translate(59,-257)"
+       class="ColorScheme-Highlight"
+       fill="currentColor" />
+  </g>
+  <g
+     id="decoration-bottom"
+     transform="translate(-59,257)">
+    <image
+       width="80"
+       height="12"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAMCAYAAAD1XTohAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFxJREFUSInt1rEJAlEURNHz8YH9 d6hosBuZWIA9uMEw8E8FNxmYhbftb4NPOqLZ4EhHNBu80hHNBo90RLPBMx3RbE/4osGZjmi2b8xF g286otnCPR3RbOGWjmj2AxzwCUAxBZdAAAAAAElFTkSuQmCC "
+       id="image8770"
+       x="97"
+       y="-192" />
+    <rect
+       id="rect7437"
+       width="80"
+       height="2"
+       x="97"
+       y="-192"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <g
@@ -146,7 +210,7 @@
        height="2"
        x="97"
        y="-252"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <g
@@ -176,7 +240,7 @@
        x="-222"
        y="-69"
        transform="rotate(90)"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <rect
@@ -192,52 +256,6 @@
      y="0"
      xlink:href="#decoration-left"
      id="decoration-right"
-     transform="matrix(-1,0,0,1,156,0)"
-     width="100%"
-     height="100%" />
-  <g
-     id="decoration-bottom"
-     transform="translate(-59,257)">
-    <image
-       width="80"
-       height="12"
-       preserveAspectRatio="none"
-       style="opacity:0.25;image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAMCAYAAAD1XTohAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFxJREFUSInt1rEJAlEURNHz8YH9 d6hosBuZWIA9uMEw8E8FNxmYhbftb4NPOqLZ4EhHNBu80hHNBo90RLPBMx3RbE/4osGZjmi2b8xF g286otnCPR3RbOGWjmj2AxzwCUAxBZdAAAAAAElFTkSuQmCC "
-       id="image8770"
-       x="97"
-       y="-192" />
-    <rect
-       id="rect7437"
-       width="80"
-       height="2"
-       x="97"
-       y="-192"
-       class="ColorScheme-Text"
-       fill="currentColor" />
-  </g>
-  <g
-     id="decoration-bottomleft">
-    <image
-       width="38"
-       height="12"
-       preserveAspectRatio="none"
-       style="opacity:0.25;image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAMCAYAAAAOCs/+AAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAOtJREFUOI29011LwzAUh/Fft3a+ 4IUiDHz5/h9QnNN2W73oCQ1xihfNDgSSNpw8ff5pgxXW2OAW93jEE17xgmds8YA7XKFDk41Fqy3W I444oMceH3jHdQAMAdbGR1UDG2OcAuoYUJ/Y4S1Amni+M9ltXcBYDjcUUF3s6c3mNiZbydjilYOd zBF+BViycjBFehNQnYox5mDMUSZj6wA+mO5airSLd7mti0WZDkoW9+YLn6CqxZjAxgwir/SH9rGv NFUtxgR2DiafD35aqg5WNk7rBLAq5jlMNajfmpcHl3aaM3sXr78a/wegGtg3MN09jA983qkAAAAA SUVORK5CYII= "
-       id="image8734"
-       x="0"
-       y="65" />
-    <path
-       id="rect2029"
-       d="m 8,65 c 0,1.108 0.892,2 2,2 h 28 v -2 z"
-       class="ColorScheme-Text"
-       fill="currentColor" />
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#decoration-bottomleft"
-     id="decoration-bottomright"
      transform="matrix(-1,0,0,1,156,0)"
      width="100%"
      height="100%" />
