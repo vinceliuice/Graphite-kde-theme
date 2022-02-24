@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg118"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,16 +20,20 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="70.000004"
-     inkscape:cy="39.250002"
-     inkscape:window-width="1486"
-     inkscape:window-height="946"
-     inkscape:window-x="172"
-     inkscape:window-y="129"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg118">
+     showgrid="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="64.081552"
+     inkscape:cy="60.45763"
+     inkscape:window-width="1440"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg118"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid986" />
@@ -95,11 +99,11 @@
     </linearGradient>
     <linearGradient
        id="linearGradient4948"
-       x1="-21"
+       x1="-20.500072"
        x2="-7.9999909"
-       y1="932.36"
+       y1="932.3667"
        y2="932.37335"
-       gradientTransform="matrix(.85714 0 0 1 -1 0)"
+       gradientTransform="matrix(0.85715937,0,0,1.0004181,-1.4279997,-0.38313249)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient4270" />
     <radialGradient
@@ -107,52 +111,12 @@
        cx="77"
        cy="12"
        r="6"
-       gradientTransform="matrix(-8.939877e-5,-4.3319598,4.333263,-8.9429379e-5,8.0080641,355.56117)"
+       gradientTransform="matrix(-7.6625328e-5,-3.7130035,3.7141193,-7.6651589e-5,-48.563415,1236.2806)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient4270"
        fx="77"
        fy="12" />
   </defs>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-left"
-     id="shadow-top"
-     transform="rotate(90,65.997498,27.997497)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#top"
-     id="left"
-     transform="rotate(-90,65.997361,27.997634)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#top"
-     id="right"
-     transform="rotate(90,66.000137,28.000137)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#top"
-     id="bottom"
-     transform="rotate(180,65.99985,27.997484)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-topleft"
-     id="shadow-bottomleft"
-     transform="rotate(-90,66.000001,27.999998)"
-     width="100%"
-     height="100%" />
   <use
      x="0"
      y="0"
@@ -169,12 +133,49 @@
      transform="rotate(90,66,28)"
      width="100%"
      height="100%" />
+  <g
+     id="shadow-left"
+     transform="matrix(2.3333,0,0,0.375,14.667301,-321.64001)">
+    <rect
+       transform="scale(-1,1)"
+       x="-19.428577"
+       y="916.37335"
+       width="12"
+       height="32"
+       id="rect1393"
+       style="fill:none" />
+    <rect
+       transform="scale(-1,1)"
+       x="-12.142588"
+       y="916.37335"
+       width="4.7141819"
+       height="32"
+       id="rect76"
+       style="opacity:0.5;fill:url(#linearGradient4948)" />
+    <rect
+       transform="scale(-1,1)"
+       x="-12.571337"
+       y="916.37335"
+       width="0.85715508"
+       height="32"
+       id="rect1660"
+       fill="currentColor"
+       class="ColorScheme-Highlight" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#shadow-topleft"
+     id="shadow-bottomleft"
+     transform="rotate(-90,66.003547,27.996453)"
+     width="100%"
+     height="100%" />
   <use
      x="0"
      y="0"
      xlink:href="#shadow-topleft"
      id="shadow-bottomright"
-     transform="rotate(180,66,27.996092)"
+     transform="rotate(180,66,27.999978)"
      width="100%"
      height="100%" />
   <use
@@ -182,25 +183,55 @@
      y="0"
      xlink:href="#shadow-topleft"
      id="shadow-topright"
-     transform="rotate(90,65.996569,27.99696)"
+     transform="rotate(90,65.993024,27.993414)"
      width="100%"
      height="100%" />
   <g
      id="shadow-topleft"
-     transform="matrix(1.1667 0 0 1.1667 64.667 -1086.8)">
+     transform="matrix(1.1667,0,0,1.1667,64.667,-1086.8072)">
     <path
-       transform="matrix(.85715 0 0 .85715 -55.429 931.51)"
-       d="m32-6v28h12c0-8.864 7.136-16 16-16v-12h-28z"
-       fill="url(#radialGradient994)"
+       d="m -27.999486,926.3797 v 23.99931 h 10.28542 c 0,-7.59749 6.116397,-13.71389 13.7138946,-13.71389 V 926.3797 Z"
        id="path18"
-       style="opacity:0.25" />
+       style="opacity:0.5;fill:url(#radialGradient994);stroke-width:1" />
     <path
        id="path914"
-       d="M 60 4 C 50.029963 4 42.003159 12.024869 42 21.994141 L 44 21.994141 C 44 13.129813 51.135673 5.9921875 60 5.9921875 L 60 4 z "
-       transform="matrix(0.85711837,0,0,0.85711837,-55.427274,931.51624)"
+       d="m -4.0001714,934.95085 c -8.5455026,0 -15.4254236,6.88051 -15.4281306,15.42813 h 1.714236 c 0,-7.60025 6.116117,-13.71386 13.7138946,-13.71386 z"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       sodipodi:nodetypes="ccccc" />
   </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#shadow-left"
+     id="shadow-top"
+     transform="rotate(90,65.999999,27.999998)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#top"
+     id="left"
+     transform="rotate(-90,66,28)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#top"
+     id="right"
+     transform="rotate(90,66.000151,28.000151)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#top"
+     id="bottom"
+     transform="rotate(180,65.99985,27.997498)"
+     width="100%"
+     height="100%" />
   <rect
      id="hint-tile-center"
      y="-1.4648e-5"
@@ -245,14 +276,14 @@
      x="67"
      y="6"
      width="4"
-     height="2.9999001"
+     height="4"
      fill="#ff00ff" />
   <rect
      id="hint-bottom-margin"
      x="66"
-     y="47"
+     y="46"
      width="4"
-     height="3"
+     height="4"
      fill="#ff00ff" />
   <rect
      id="hint-right-margin"
@@ -260,56 +291,16 @@
      x="29"
      y="-88"
      width="4"
-     height="3"
+     height="4"
      fill="#ff00ff" />
   <rect
      id="hint-left-margin"
      transform="rotate(90)"
      x="29"
-     y="-47"
+     y="-48"
      width="4"
-     height="3"
+     height="4"
      fill="#ff00ff" />
-  <g
-     id="shadow-left"
-     transform="matrix(2.3333 0 0 .375 15.667 -321.64)">
-    <rect
-       transform="scale(-1,1)"
-       x="-19"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="none"
-       opacity="1"
-       id="rect74" />
-    <rect
-       transform="scale(-1,1)"
-       x="-12.143"
-       y="916.36"
-       width="5.1429"
-       height="32"
-       fill="url(#linearGradient4948)"
-       id="rect76"
-       style="opacity:0.25" />
-    <rect
-       transform="scale(-1,1)"
-       x="-14"
-       y="916.36"
-       width="1"
-       height="32"
-       fill="none"
-       opacity="1"
-       id="rect78" />
-    <rect
-       transform="scale(-1,1)"
-       x="-12.142888"
-       y="916.35999"
-       width="0.85715508"
-       height="32"
-       id="rect1660"
-       fill="currentColor"
-       class="ColorScheme-Highlight" />
-  </g>
   <rect
      id="shadow-hint-top-margin"
      x="67"
@@ -349,7 +340,6 @@
        y="-51"
        width="12"
        height="32"
-       opacity="0.97"
        id="rect92" />
   </g>
   <g
@@ -357,8 +347,6 @@
      transform="matrix(1.5,0,0,1.5,95.499997,-1359.5)">
     <path
        d="M 23.666667,910.36 C 17.757333,910.36 13,915.11733 13,921.02667 h 10.666667 z"
-       opacity="0.97"
-       stroke-width="2"
        id="path95" />
   </g>
   <g
@@ -366,8 +354,6 @@
      transform="matrix(2,0,0,2,44.999997,-1814.72)">
     <path
        d="m 49,910.36 v 8 h 8 c 0,-4.432 -3.568,-8 -8,-8 z"
-       opacity="0.97"
-       stroke-width="1.6"
        id="path98" />
   </g>
   <g
@@ -379,7 +365,6 @@
        y="-51"
        width="10"
        height="32"
-       opacity="0.97"
        id="rect101" />
   </g>
   <g
@@ -387,8 +372,6 @@
      transform="matrix(1.3333333,0,0,1.3333333,97.666667,-1222.48)">
     <path
        d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 z"
-       opacity="0.97"
-       stroke-width="2.4"
        id="path104" />
   </g>
   <g
@@ -396,8 +379,6 @@
      transform="matrix(1.3333333,0,0,1.3333333,82.999998,-1222.48)">
     <path
        d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 z"
-       opacity="0.97"
-       stroke-width="2.4"
        id="path107" />
   </g>
   <g
@@ -409,7 +390,6 @@
        y="922.35999"
        width="12"
        height="20"
-       opacity="0.97"
        id="rect110" />
   </g>
   <g
@@ -420,7 +400,6 @@
        y="916.35999"
        width="10"
        height="32"
-       opacity="0.97"
        id="rect113" />
   </g>
   <rect
@@ -428,18 +407,14 @@
      x="131"
      y="22"
      width="12"
-     height="12"
-     opacity="0.97" />
+     height="12" />
   <rect
      id="shadow-center"
-     class="ColorScheme-Background"
      x="60"
      y="80"
      width="12"
      height="12"
-     color="#eff0f1"
-     opacity="0"
-     stroke-width=".375" />
+     style="fill:none" />
   <rect
      style="fill:currentColor;opacity:0.9"
      id="thick-center"
@@ -481,69 +456,69 @@
   <rect
      y="6"
      x="62"
-     height="3"
+     height="4"
      width="4"
      id="hint-top-inset"
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.707106" />
+     style="fill:#00ff00" />
   <rect
-     style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.41422"
+     style="fill:#ffcc00"
      id="shadow-hint-top-inset"
-     width="3.9999998"
+     width="4"
      height="12"
      x="62"
-     y="-5.999896" />
+     y="-6" />
   <rect
      transform="rotate(90)"
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.707106"
+     style="fill:#00ff00"
      id="hint-right-inset"
      width="4"
-     height="3"
+     height="4"
      x="24"
      y="-88" />
   <rect
      y="-100"
-     x="24.000023"
+     x="24"
      height="12"
      width="4"
      id="shadow-hint-right-inset"
-     style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.41422"
+     style="fill:#ffcc00"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     y="-47"
+     y="-48"
      x="24"
-     height="3"
-     width="3.9999998"
+     height="4"
+     width="4"
      id="hint-left-inset"
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.707106" />
+     style="fill:#00ff00" />
   <rect
-     style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.41421"
+     style="fill:#ffcc00"
      id="shadow-hint-left-inset"
-     width="4.0000229"
+     width="4"
      height="12"
      x="24"
      y="-44"
      transform="rotate(90)" />
   <rect
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.70711"
+     style="fill:#00ff00"
      id="hint-bottom-inset"
      width="4"
-     height="3"
+     height="4"
      x="61"
-     y="47" />
+     y="46" />
   <rect
-     y="50.000099"
+     y="50"
      x="61"
-     height="11.999977"
-     width="3.9999998"
+     height="12"
+     width="4"
      id="shadow-hint-bottom-inset"
-     style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+     style="fill:#ffcc00" />
   <use
      x="0"
      y="0"
      xlink:href="#topleft"
      id="topright"
-     transform="rotate(90,66.000144,28.000145)"
+     transform="rotate(90,66.00015,28.000151)"
      width="100%"
      height="100%" />
   <use
@@ -551,7 +526,7 @@
      y="0"
      xlink:href="#topleft"
      id="bottomright"
-     transform="rotate(180,66.000151,27.999994)"
+     transform="rotate(180,66.000151,28)"
      width="100%"
      height="100%" />
   <use
@@ -559,7 +534,7 @@
      y="0"
      xlink:href="#topleft"
      id="bottomleft"
-     transform="rotate(-90,66.000156,28.000145)"
+     transform="rotate(-90,66.00015,28.000151)"
      width="100%"
      height="100%" />
 </svg>
