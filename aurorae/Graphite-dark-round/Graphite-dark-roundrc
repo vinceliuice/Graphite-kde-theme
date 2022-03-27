@@ -17,9 +17,9 @@ Shadow=true
 Animation=1
 
 [Layout]
-BorderLeft=2
-BorderRight=2
-BorderBottom=12
+BorderLeft=0
+BorderRight=0
+BorderBottom=10
 TitleEdgeTop=6
 TitleEdgeBottom=6
 TitleEdgeLeft=16
@@ -34,10 +34,10 @@ ButtonMarginTop=3
 ButtonMarginLeft=0
 ButtonMarginRight=0
 ExplicitButtonSpacer=0
-PaddingTop=5
-PaddingBottom=20
-PaddingRight=8
-PaddingLeft=8
+PaddingTop=7
+PaddingBottom=22
+PaddingRight=10
+PaddingLeft=10
 TitleEdgeTopMaximized=6
 TitleEdgeBottomMaximized=6
 TitleEdgeLeftMaximized=12
