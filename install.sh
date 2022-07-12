@@ -39,7 +39,7 @@ install() {
   [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rf ${LOOKFEEL_THEME}
-  [[ -d ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
+  [[ -f ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
   [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
   [[ -d ${WALLPAPER_THEME} ]] && rm -rf ${WALLPAPER_THEME}
 
@@ -58,9 +58,9 @@ install() {
 echo "Installing '${THEME_NAME} kde themes'..."
 
 for theme in "${themes[@]:-${THEME_VARIANTS[@]}}"; do
-for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
-  install "${name:-${THEME_NAME}}" "${theme}" "${color}"
-done
+  for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
+    install "${name:-${THEME_NAME}}" "${theme}" "${color}"
+  done
 done
 
 echo "Install finished..."
