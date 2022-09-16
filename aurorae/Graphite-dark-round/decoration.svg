@@ -25,13 +25,13 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="46.492271"
-     inkscape:cy="4.7729708"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="264.81149"
+     inkscape:cy="-18.73833"
      inkscape:window-width="1440"
-     inkscape:window-height="741"
+     inkscape:window-height="745"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg162">
     <inkscape:grid
@@ -270,4 +270,126 @@
      transform="matrix(-1,0,0,1,156,0)"
      width="100%"
      height="100%" />
+  <g
+     id="mask-topright"
+     transform="matrix(-1,0,0,1,432.02869,257)">
+    <image
+       width="38"
+       height="35"
+       x="59"
+       y="-257"
+       id="image1434" />
+    <path
+       id="path917"
+       d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z" />
+  </g>
+  <g
+     id="mask-topleft"
+     transform="translate(158.02869,257)">
+    <image
+       width="38"
+       height="35"
+       x="59"
+       y="-257"
+       id="image1438" />
+    <path
+       id="path855"
+       d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="translate(158.02869,267)">
+    <image
+       width="80"
+       height="12"
+       x="97"
+       y="-192"
+       id="image1442" />
+    <rect
+       id="rect863"
+       width="80"
+       height="10"
+       x="97"
+       y="-202" />
+  </g>
+  <g
+     id="mask-top"
+     transform="translate(158.02869,257)">
+    <image
+       width="80"
+       height="35"
+       x="97"
+       y="-257"
+       id="image1446" />
+    <rect
+       id="rect869"
+       width="80"
+       height="28"
+       x="97"
+       y="-250" />
+  </g>
+  <g
+     id="mask-left"
+     transform="translate(158.02869,257)">
+    <image
+       width="38"
+       height="30"
+       x="59"
+       y="-222"
+       id="image1450" />
+    <rect
+       id="rect877"
+       width="28"
+       height="30"
+       x="69"
+       y="-222" />
+  </g>
+  <rect
+     id="mask-center"
+     width="80"
+     height="30"
+     x="255"
+     y="35" />
+  <g
+     id="mask-right"
+     transform="matrix(-1,0,0,1,432.02869,257)">
+    <image
+       width="38"
+       height="30"
+       x="59"
+       y="-222"
+       id="image1455" />
+    <rect
+       id="rect907"
+       width="28"
+       height="30"
+       x="69"
+       y="-222" />
+  </g>
+  <g
+     id="mask-bottomleft"
+     transform="translate(217.02869)">
+    <image
+       width="38"
+       height="22"
+       x="0"
+       y="65"
+       id="image1459" />
+    <path
+       id="path891"
+       d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z" />
+  </g>
+  <g
+     id="mask-bottomright"
+     transform="matrix(-1,0,0,1,373.02869,0)">
+    <image
+       width="38"
+       height="22"
+       x="0"
+       y="65"
+       id="image1463" />
+    <path
+       id="path901"
+       d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z" />
+  </g>
 </svg>
