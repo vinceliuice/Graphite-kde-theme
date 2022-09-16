@@ -5,7 +5,7 @@
    version="1"
    id="svg1810"
    sodipodi:docname="Graphite.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,18 +20,20 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.828427"
-     inkscape:cx="208.95006"
-     inkscape:cy="176.59993"
+     inkscape:zoom="15.999999"
+     inkscape:cx="56.375004"
+     inkscape:cy="929.09381"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1810"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#f2f2f2">
     <inkscape:grid
        type="xygrid"
        id="grid51489" />
@@ -863,96 +865,96 @@
      y="930.26"
      width="8"
      height="4"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-bottom"
      x="52"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed"
      d="m52 934.26h8v8h-8z"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-topright"
      d="m60 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-bottomright"
      d="m60 942.26h4s0 4-4 4z"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-right"
      x="60"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-left"
      x="48"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-topleft"
      d="m52 930.26v4h-4s0-4 4-4z"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-bottomleft"
      d="m48 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#2e2e2e;fill-opacity:1" />
+     style="fill:#333333;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-toggled-top"
      x="71"
      y="930.26"
      width="8"
      height="4"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-bottom"
      x="71"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled"
      d="m71 934.26h8v8h-8z"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-right"
      x="79"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-topright"
      d="m79 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-bottomright"
      d="m79 942.26h4s0 4-4 4z"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-left"
      x="67"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-topleft"
      d="m71 930.26v4h-4s0-4 4-4z"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-bottomleft"
      d="m67 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#333333;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-focused-top"
      x="33"
