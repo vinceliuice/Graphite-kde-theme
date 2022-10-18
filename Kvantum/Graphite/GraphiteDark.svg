@@ -5,7 +5,7 @@
    version="1"
    id="svg1810"
    sodipodi:docname="GraphiteDark.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,18 +20,20 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="16.000001"
-     inkscape:cx="329.87498"
-     inkscape:cy="409.40623"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="360.62442"
+     inkscape:cy="31.819802"
+     inkscape:window-width="1368"
+     inkscape:window-height="687"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1810"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#525252">
     <inkscape:grid
        type="xygrid"
        id="grid51489" />
@@ -281,10 +283,12 @@
   </g>
   <path
      id="expand-progress-pattern-normal"
-     d="m 435,105 v 10 h 10 v -10 z" />
+     d="m 435,105 v 10 h 10 v -10 z"
+     style="fill:#000000;opacity:0.25" />
   <path
      id="expand-progress-normal"
-     d="m 435,115 v 10 h 10 v -10 z" />
+     d="m 435,115 v 10 h 10 v -10 z"
+     style="fill:#000000;opacity:0.25" />
   <rect
      id="grip-normal"
      x="323"
@@ -298,7 +302,7 @@
      y="20.923"
      width="10"
      height="10"
-     opacity=".15" />
+     style="fill:#ffffff;opacity:0.1" />
   <g
      id="splitter-grip-focused"
      transform="matrix(1.1429 0 0 1 -10.286 -279.01)"
@@ -327,10 +331,11 @@
      xlink:href="#splitter-grip-focused" />
   <rect
      id="expand-combo-normal"
-     x="10"
-     y="20"
+     x="371.35565"
+     y="20.923"
      width="10"
-     height="10" />
+     height="10"
+     style="opacity:0.1;fill:#ffffff" />
   <g
      id="mdi-close-normal"
      transform="translate(-37 -83.03)">
@@ -614,23 +619,13 @@
        id="path158"
        style="fill:#ffffff;opacity:0.5" />
   </g>
-  <g
-     id="progress-normal-lefttyry"
-     transform="translate(-8 -9)">
-    <rect
-       x="26"
-       y="162"
-       width="8"
-       height="8"
-       opacity=".001"
-       id="rect161" />
-  </g>
   <rect
      id="expand-tbutton-normal"
      x="190"
      y="20"
      width="8"
-     height="8" />
+     height="8"
+     style="fill:#ffffff;opacity:0.1" />
   <g
      id="progress-normal"
      transform="matrix(1.5 0 0 1 20 17)">
@@ -640,7 +635,8 @@
        width="8"
        height="8"
        opacity=".25"
-       id="rect165" />
+       id="rect165"
+       style="fill:#000000" />
   </g>
   <rect
      id="progress-pattern-normal-top"
@@ -690,84 +686,96 @@
      y="167"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-normal-bottom"
      x="71"
      y="187"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-normal-topleft"
      x="59"
      y="167"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-normal-topright"
      x="83"
      y="167"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-normal-bottomleft"
      x="59"
      y="187"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-normal-bottomright"
      x="83"
      y="187"
      width="12"
      height="12"
-     opacity=".25" />
+     opacity=".25"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-top"
      x="110"
      y="167"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-bottom"
      x="110"
      y="187"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-topleft"
      x="98"
      y="167"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-topright"
      x="122"
      y="167"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-bottomleft"
      x="98"
      y="187"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <rect
      id="progress-pattern-disabled-bottomright"
      x="122"
      y="187"
      width="12"
      height="12"
-     opacity=".12" />
+     opacity=".12"
+     style="fill:#000000" />
   <g
      id="progress-pattern-normal"
      transform="matrix(1.5 0 0 1 -19 17)">
@@ -810,7 +818,8 @@
        width="8"
        height="8"
        opacity=".25"
-       id="rect195" />
+       id="rect195"
+       style="fill:#000000" />
   </g>
   <g
      id="progress-normal-right"
@@ -821,7 +830,8 @@
        width="8"
        height="8"
        opacity=".25"
-       id="rect198" />
+       id="rect198"
+       style="fill:#000000" />
   </g>
   <g
      id="progress-pattern-disabled-left"
@@ -832,7 +842,8 @@
        width="8"
        height="8"
        opacity=".12"
-       id="rect201" />
+       id="rect201"
+       style="fill:#000000" />
   </g>
   <g
      id="progress-pattern-disabled"
@@ -843,7 +854,8 @@
        width="8"
        height="8"
        opacity=".12"
-       id="rect204" />
+       id="rect204"
+       style="fill:#000000" />
   </g>
   <g
      id="progress-pattern-disabled-right"
@@ -854,7 +866,8 @@
        width="8"
        height="8"
        opacity=".12"
-       id="rect207" />
+       id="rect207"
+       style="fill:#000000" />
   </g>
   <rect
      id="itemview-pressed-top"
@@ -862,96 +875,96 @@
      y="930.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-bottom"
      x="52"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed"
      d="m52 934.26h8v8h-8z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-topright"
      d="m60 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-bottomright"
      d="m60 942.26h4s0 4-4 4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-right"
      x="60"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-pressed-left"
      x="48"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-topleft"
      d="m52 930.26v4h-4s0-4 4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <path
      id="itemview-pressed-bottomleft"
      d="m48 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#cccccc;fill-opacity:1;opacity:1" />
   <rect
      id="itemview-toggled-top"
      x="71"
      y="930.26"
      width="8"
      height="4"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-bottom"
      x="71"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled"
      d="m71 934.26h8v8h-8z"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-right"
      x="79"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-topright"
      d="m79 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-bottomright"
      d="m79 942.26h4s0 4-4 4z"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-toggled-left"
      x="67"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-topleft"
      d="m71 930.26v4h-4s0-4 4-4z"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <path
      id="itemview-toggled-bottomleft"
      d="m67 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
   <rect
      id="itemview-focused-top"
      x="33"
@@ -1003,8 +1016,7 @@
   <path
      id="toolbar-handle"
      d="m245 107a5 5 0 0 1-10 0 5 5 0 1 1 10 0z"
-     fill="#fff"
-     opacity=".16" />
+     style="fill:#ffffff;opacity:0.16" />
   <path
      id="menubaritem-focused-left"
      d="m116 946v-17.999h-6l3.6e-4 18z"
@@ -1068,46 +1080,38 @@
      style="fill:#ffffff;opacity:0.1" />
   <g
      id="focus-left"
-     transform="matrix(.95208 0 0 1 11.535 -19.236)"
-     stroke-width="1.0249">
+     transform="matrix(.95208 0 0 1 11.535 -19.236)">
     <path
        d="m183 121v10h2v-10z"
        fill="#fff"
        opacity=".19"
-       stroke-width="1.0249"
        id="path252" />
   </g>
   <g
      id="focus-right"
-     transform="matrix(.95208 0 0 1 9.6306 -19.236)"
-     stroke-width="1.0249">
+     transform="matrix(.95208 0 0 1 9.6306 -19.236)">
     <path
        d="m197 121v10h2v-10z"
        fill="#fff"
        opacity=".19"
-       stroke-width="1.0249"
        id="path255" />
   </g>
   <g
      id="focus-top"
-     transform="matrix(.95208 0 0 1 10.583 -18.236)"
-     stroke-width="1.0249">
+     transform="matrix(.95208 0 0 1 10.583 -18.236)">
     <path
        d="m186 118v2h10v-2z"
        fill="#fff"
        opacity=".19"
-       stroke-width="1.0249"
        id="path258" />
   </g>
   <g
      id="focus-bottom"
-     transform="matrix(.95208 0 0 1 10.583 -20.236)"
-     stroke-width="1.0249">
+     transform="matrix(.95208 0 0 1 10.583 -20.236)">
     <path
        d="m186 132v2h10v-2z"
        fill="#fff"
        opacity=".19"
-       stroke-width="1.0249"
        id="path261" />
   </g>
   <path
@@ -5834,7 +5838,7 @@
      id="lineedit-normal"
      transform="matrix(3.7795276,0,0,3.7795276,169,-51.000001)">
     <rect
-       style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="opacity:0.1;fill:#ffffff"
        id="rect43255"
        width="3.175"
        height="1.5875"
@@ -5845,7 +5849,7 @@
      id="lineedit-normal-left"
      transform="matrix(3.7795276,0,0,3.7795276,169,-51.000001)">
     <rect
-       style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="opacity:0.1;fill:#ffffff"
        id="rect43257"
        width="1.5875"
        height="1.5875"
@@ -5856,7 +5860,7 @@
      id="lineedit-normal-top"
      transform="matrix(3.7795276,0,0,3.7795276,169,-51.000001)">
     <rect
-       style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="opacity:0.1;fill:#ffffff"
        id="rect43253"
        width="3.175"
        height="1.5875"
@@ -5880,7 +5884,7 @@
      transform="matrix(3.7795276,0,0,3.7795276,169,-51.000001)">
     <path
        id="rect43263"
-       style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.0943911;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="opacity:0.1;fill:#ffffff"
        d="m 130,99 c -3.324,0 -6,2.676 -6,6 h 6 z"
        transform="scale(0.26458333)" />
   </g>
@@ -6073,7 +6077,7 @@
      id="combo-normal"
      transform="matrix(3.7795276,0,0,3.7795276,249,-51.000001)">
     <rect
-       style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       style="opacity:0.1;fill:#ffffff"
        id="rect44091"
        width="3.175"
        height="1.5875"
