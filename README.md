@@ -16,8 +16,25 @@ In this repository you'll find:
 
 ## Installation
 
+Install theme for all users
+```sh
+sudo ./install.sh
+```
+
+Install for current user
 ```sh
 ./install.sh
+```
+
+## Uninstall
+
+If installed as root
+```sh
+sudo ./uninstall.sh
+```
+Or else use
+```sh
+./uninstall.sh
 ```
 
 ## Recommendations
