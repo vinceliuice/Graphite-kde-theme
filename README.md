@@ -16,6 +16,12 @@ In this repository you'll find:
 
 ## Installation
 
+Install theme for all users
+```sh
+sudo ./install.sh
+```
+
+Install for current user
 ```sh
 ./install.sh
 ```
