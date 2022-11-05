@@ -5,7 +5,7 @@
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,17 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-77.781747"
-     inkscape:cy="79.903067"
-     inkscape:window-width="1440"
-     inkscape:window-height="745"
+     inkscape:zoom="1"
+     inkscape:cx="115"
+     inkscape:cy="88"
+     inkscape:window-width="1368"
+     inkscape:window-height="689"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg162">
+     inkscape:current-layer="svg162"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#5c5c5c">
     <inkscape:grid
        type="xygrid"
        id="grid1057" />
@@ -272,76 +274,82 @@
      height="100%" />
   <g
      id="mask-topright"
-     transform="matrix(-1,0,0,1,432.02869,257)">
-    <image
-       width="38"
-       height="35"
-       x="59"
-       y="-257"
-       id="image1476" />
+     transform="matrix(-1,0,0,1,432,257)">
     <path
        id="path917"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z" />
+    <rect
+       id="rect1081"
+       width="38"
+       height="35"
+       x="-97"
+       y="-257"
+       transform="scale(-1,1)"
+       style="fill:none" />
   </g>
   <g
      id="mask-topleft"
      transform="translate(158.02869,257)">
-    <image
-       width="38"
-       height="35"
-       x="59"
-       y="-257"
-       id="image1480" />
     <path
        id="path855"
-       d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z" />
+       d="m 80.971313,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z" />
+    <rect
+       id="rect738"
+       width="38"
+       height="35"
+       x="58.97131"
+       y="-257"
+       style="fill:none" />
   </g>
   <g
      id="mask-bottom"
-     transform="translate(158.02869,267)">
-    <image
-       width="80"
-       height="12"
-       x="97"
-       y="-192"
-       id="image1484" />
+     transform="translate(158,267)">
     <rect
        id="rect863"
        width="80"
        height="10"
        x="97"
        y="-202" />
+    <rect
+       id="rect798"
+       width="80"
+       height="22"
+       x="97"
+       y="-202"
+       style="fill:none" />
   </g>
   <g
      id="mask-top"
-     transform="translate(158.02869,257)">
-    <image
-       width="80"
-       height="35"
-       x="97"
-       y="-257"
-       id="image1488" />
+     transform="translate(158,257)">
     <rect
        id="rect869"
        width="80"
        height="28"
        x="97"
        y="-250" />
+    <rect
+       id="rect1168"
+       width="80"
+       height="35"
+       x="97"
+       y="-257"
+       style="fill:none" />
   </g>
   <g
      id="mask-left"
      transform="translate(158.02869,257)">
-    <image
-       width="38"
-       height="30"
-       x="59"
-       y="-222"
-       id="image1492" />
     <rect
        id="rect877"
        width="28"
        height="30"
-       x="69"
+       x="68.971313"
+       y="-222" />
+    <rect
+       style="opacity:0.35;fill:none;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect792"
+       width="38"
+       height="30"
+       x="58.97131"
        y="-222" />
   </g>
   <rect
@@ -352,44 +360,49 @@
      y="35" />
   <g
      id="mask-right"
-     transform="matrix(-1,0,0,1,432.02869,257)">
-    <image
-       width="38"
-       height="30"
-       x="59"
-       y="-222"
-       id="image1497" />
+     transform="matrix(-1,0,0,1,432,257)">
     <rect
        id="rect907"
        width="28"
        height="30"
        x="69"
        y="-222" />
+    <rect
+       id="rect1164"
+       width="38"
+       height="30"
+       x="-97"
+       y="-222"
+       transform="scale(-1,1)"
+       style="fill:none" />
   </g>
   <g
      id="mask-bottomleft"
      transform="translate(217.02869)">
-    <image
+    <rect
+       id="rect794"
        width="38"
        height="22"
-       x="0"
+       x="-0.028689999"
        y="65"
-       id="image1501" />
+       style="fill:none" />
     <path
        id="path891"
-       d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z" />
+       d="m 9.97131,65 c 0,5.54 4.46,10 10,10 h 18 V 65 Z" />
   </g>
   <g
      id="mask-bottomright"
-     transform="matrix(-1,0,0,1,373.02869,0)">
-    <image
-       width="38"
-       height="22"
-       x="0"
-       y="65"
-       id="image1505" />
+     transform="matrix(-1,0,0,1,373,0)">
     <path
        id="path901"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z" />
+    <rect
+       id="rect1166"
+       width="38"
+       height="22"
+       x="-38"
+       y="65"
+       transform="scale(-1,1)"
+       style="fill:none" />
   </g>
 </svg>
