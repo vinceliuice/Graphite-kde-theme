@@ -16,6 +16,17 @@ In this repository you'll find:
 
 ## Installation
 
+OPTIONS:
+
+```sh
+  -n, --name NAME         Specify theme name (Default: $THEME_NAME)
+  -t, --theme VARIANT     Specify theme color variant(s) [default|nord] (Default: All variants)s)
+  -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)s)
+  --rimless VARIANT       Specify rimless variant
+
+  -h, --help              Show help
+```
+
 Install theme for all users
 ```sh
 sudo ./install.sh

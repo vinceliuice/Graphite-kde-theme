@@ -26,8 +26,8 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:zoom="2.0000001"
-     inkscape:cx="37.749999"
-     inkscape:cy="41.499999"
+     inkscape:cx="210.74999"
+     inkscape:cy="56.499999"
      inkscape:window-width="1368"
      inkscape:window-height="689"
      inkscape:window-x="0"
@@ -35,7 +35,11 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg162"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#5c5c5c" />
+     inkscape:deskcolor="#5c5c5c">
+    <inkscape:grid
+       type="xygrid"
+       id="grid306" />
+  </sodipodi:namedview>
   <defs
      id="defs3">
     <style
@@ -106,15 +110,14 @@
        x="59"
        y="-257" />
     <path
-       id="rect1465"
-       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
-    <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
        class="ColorScheme-Background"
        fill="currentColor" />
+    <path
+       id="path308"
+       d="M 81 -250 C 74.352007 -250 69 -244.64798 69 -238 L 69 -237 C 69 -243.64798 74.352007 -249 81 -249 L 97 -249 L 97 -250 L 81 -250 z "
+       style="fill:#ffffff;opacity:0.1" />
   </g>
   <g
      id="decoration-bottom"
@@ -128,14 +131,6 @@
        id="image8770"
        x="97"
        y="-192" />
-    <rect
-       id="rect7437"
-       width="80"
-       height="2"
-       x="97"
-       y="-192"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
     <rect
        id="rect11337"
        width="80"
@@ -166,13 +161,12 @@
        class="ColorScheme-Background"
        fill="currentColor" />
     <rect
-       id="rect7439"
+       id="rect367"
        width="80"
-       height="2"
+       height="1"
        x="97"
-       y="-252"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       y="-250"
+       style="stroke-width:0.188982;fill:#ffffff;opacity:0.1" />
   </g>
   <g
      id="decoration-left"
@@ -193,15 +187,6 @@
        x="69"
        y="-222"
        class="ColorScheme-Background"
-       fill="currentColor" />
-    <rect
-       id="rect7441"
-       width="30"
-       height="2"
-       x="-222"
-       y="-69"
-       transform="rotate(90)"
-       class="ColorScheme-Highlight"
        fill="currentColor" />
   </g>
   <rect
@@ -231,11 +216,6 @@
        x="0"
        y="65"
        style="opacity:0.25" />
-    <path
-       id="rect1363"
-       d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
     <path
        id="rect955"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
@@ -404,16 +384,15 @@
        x="59"
        y="-257" />
     <path
-       id="rect1465-6"
-       d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
-    <path
        id="rect1161-7"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
        class="ColorScheme-Background"
-       fill="currentColor" />
+       fill="currentColor"
+       style="color:#2c2c2c;stop-color:#2c2c2c" />
+    <path
+       id="path369"
+       d="M 81.000004 -250.00005 C 74.352011 -250.00005 69.000004 -244.64803 69.000004 -238.00005 L 69.000004 -237.00005 C 69.000004 -243.64803 74.352011 -249.00005 81.000004 -249.00005 L 97.000004 -249.00005 L 97.000004 -250.00005 L 81.000004 -250.00005 z "
+       style="fill:#ffffff;opacity:0.1" />
   </g>
   <g
      id="decoration-inactive-bottom"
@@ -427,15 +406,6 @@
        id="image8770-5"
        x="97"
        y="-192" />
-    <rect
-       id="rect7437-3"
-       width="80"
-       height="2"
-       x="97"
-       y="-192"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
     <rect
        id="rect11337-5"
        width="80"
@@ -466,14 +436,12 @@
        class="ColorScheme-Background"
        fill="currentColor" />
     <rect
-       id="rect7439-9"
+       id="rect374"
        width="80"
-       height="2"
+       height="1"
        x="97"
-       y="-252"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       y="-250"
+       style="fill:#ffffff;opacity:0.1" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -495,16 +463,6 @@
        y="-222"
        class="ColorScheme-Background"
        fill="currentColor" />
-    <rect
-       id="rect7441-7"
-       width="30"
-       height="2"
-       x="-222"
-       y="-69"
-       transform="rotate(90)"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
   </g>
   <rect
      id="decoration-inactive-center"
@@ -534,12 +492,6 @@
        x="0"
        y="65"
        style="opacity:0.1" />
-    <path
-       id="rect1363-9"
-       d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
     <path
        id="rect955-3"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="156"
+   height="77"
+   version="1.0"
+   id="svg162"
+   sodipodi:docname="decoration.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview164"
+     pagecolor="#5c5c5c"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="3.2663771"
+     inkscape:cx="91.385652"
+     inkscape:cy="34.901053"
+     inkscape:window-width="1368"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg162"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#5c5c5c">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1057" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-Background {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-Highlight {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ViewText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-ViewHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ViewFocus{
+        color:#333333;
+        stop-color:#333333;
+      }
+      .ColorScheme-ButtonText {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#2C2C2C;
+        stop-color:#2C2C2C;
+      }
+      .ColorScheme-ButtonHover {
+        color:#666666;
+        stop-color:#666666;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#333333;
+        stop-color:#333333;
+      }</style>
+  </defs>
+  <defs
+     id="defs40" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g8777"
+     id="use8849"
+     transform="matrix(-1,0,0,1,360,0)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g8800"
+     id="use8853"
+     transform="matrix(-1,0,0,1,360,0)"
+     width="100%"
+     height="100%" />
+  <use
+     id="decoration-topright"
+     transform="matrix(-1,0,0,1,156,0)"
+     width="100%"
+     height="100%"
+     xlink:href="#decoration-topleft"
+     x="0"
+     y="0" />
+  <use
+     id="decoration-bottomright"
+     transform="matrix(-1,0,0,1,156,0)"
+     width="100%"
+     height="100%"
+     xlink:href="#decoration-bottomleft"
+     x="0"
+     y="0" />
+  <g
+     id="decoration-topleft"
+     transform="translate(-59,257)">
+    <image
+       width="38"
+       height="35"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAjCAYAAAD48HgdAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAdFJREFUWIXtlttywjAMRDeBEKBA uLT0//+0D2gnWyGHxE6mfUAzGtvB2GdWsuwK5Va9GL/6Xj458b9Kxr6fvddUMA9QAagTfT8/a6Op QLX5yrX0yvlkuDGTvTor83XgKcDZwTwQARoAG+dNABgpVwzGxaiQwmwB7KRtzTcOLjukQ0ebUFSo NYg9gA9rD9bfCSCVi1QbbdFkD7WxDQlyBNABOJkr3Ba9akVg6wQYc4pKKdAFwNlaAh4ELKVYSohR YKpWYxvtDeoC4CZ+NcATesU0lENqvQSMwKgWk5xK3QB8AbgD+LRxZ7/v8RzG7BPpwbxamldU6w7g 28CuBka1tFxk51YKTNVqbdMOj5DdDIh+Rq8W61gq4bMVi8oDS8MJD8Wu5kz+Dn0Io7zKAlIwXaRG XyK2+H0azwJEpXbo86o4fB5MoRSMih3wUO2IuGY1mFGpCCyq9KzydD19QzlVbLX0NZS8F3kX6pWj UL4szGYE868IvbD1go5KwiKmi+s7yj9x/JMm9ZyeFYyLs009BvnNJ/oi5nPMv1Yjn/X0jQFTwBRM 5eYtZj75/capi3hRKAVTS+XP4uFTi8AUpPgyzrUhsD+1N9hUe4NNtTfYVPu3YD+C7QmbNQ1sXAAA AABJRU5ErkJggg== "
+       id="image8746"
+       x="59"
+       y="-257" />
+    <path
+       id="rect1161"
+       d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
+       class="ColorScheme-Background"
+       fill="currentColor" />
+    <path
+       id="path284"
+       d="M 81 -250 C 74.352007 -250 69 -244.64799 69 -238 L 69 -237 C 69 -243.64799 74.352007 -249 81 -249 L 97 -249 L 97 -250 L 81 -250 z "
+       style="fill:#ffffff;opacity:0.1" />
+  </g>
+  <g
+     id="decoration-bottomleft"
+     transform="translate(-59,257)">
+    <image
+       width="38"
+       height="12"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAMCAYAAAAOCs/+AAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAOtJREFUOI29011LwzAUh/Fft3a+ 4IUiDHz5/h9QnNN2W73oCQ1xihfNDgSSNpw8ff5pgxXW2OAW93jEE17xgmds8YA7XKFDk41Fqy3W I444oMceH3jHdQAMAdbGR1UDG2OcAuoYUJ/Y4S1Amni+M9ltXcBYDjcUUF3s6c3mNiZbydjilYOd zBF+BViycjBFehNQnYox5mDMUSZj6wA+mO5airSLd7mti0WZDkoW9+YLn6CqxZjAxgwir/SH9rGv NFUtxgR2DiafD35aqg5WNk7rBLAq5jlMNajfmpcHl3aaM3sXr78a/wegGtg3MN09jA983qkAAAAA SUVORK5CYII= "
+       id="image8734"
+       x="59"
+       y="-192" />
+  </g>
+  <g
+     id="decoration-bottom"
+     transform="translate(-59,257)">
+    <image
+       width="80"
+       height="12"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAMCAYAAAD1XTohAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFxJREFUSInt1rEJAlEURNHz8YH9 d6hosBuZWIA9uMEw8E8FNxmYhbftb4NPOqLZ4EhHNBu80hHNBo90RLPBMx3RbE/4osGZjmi2b8xF g286otnCPR3RbOGWjmj2AxzwCUAxBZdAAAAAAElFTkSuQmCC "
+       id="image8770"
+       x="97"
+       y="-192" />
+  </g>
+  <g
+     id="decoration-top"
+     transform="translate(-59,257)">
+    <image
+       width="80"
+       height="35"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAjCAYAAAADp43CAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAKZJREFUaIHt1jEKAkEQRNE/2mBi YqTJst7/hAaiJp5gKygK6sHkxYeBXsCZOmz+rw4a4OIekWyAq3tEsgFu7hHJBri7RyQbYHOPSDbA 7h6RbICne0SyfmHRAA/3iGQ9Y0Q9pEULeLlHJFvA2z0i2QI+7hHJFvB1j0h2cg9I14CiBhQ1oKgB RQ0oakBRA4oaUNSAogYUNaCoAUUNKGpAUQOKGlDUgKIfEsAFOyIP7HcAAAAASUVORK5CYII= "
+       id="image8758"
+       x="97"
+       y="-257" />
+    <rect
+       id="rect7271"
+       width="80"
+       height="28"
+       x="97"
+       y="-250"
+       class="ColorScheme-Background"
+       fill="currentColor" />
+    <rect
+       id="rect343"
+       width="80"
+       height="1"
+       x="97"
+       y="-250"
+       style="stroke-width:0.188982;fill:#ffffff;opacity:0.1" />
+  </g>
+  <g
+     id="decoration-left"
+     transform="translate(-59,257)">
+    <image
+       width="38"
+       height="30"
+       preserveAspectRatio="none"
+       style="opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAeCAYAAABAFGxuAAAACXBIWXMAAA7TAAAO0wGOe7iuAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAJhJREFUWIXt2LsKwkAQQNGzISKi jQhioeL//6GvxMItQkiKgaSbC0Mgrz31FDRoscUeR5xxxR0P3HDBCQfssKnfljqL1iz9w6VKWLSE RUtYtIRFS1i0hEVLWLSERUtYtIRFS1i0hEVrA+/2M7NKc7DhwV2dqXustCIYw6YO7/DFZzTFiruL IawfXIegN151nv7LlFKfFyvBfknHJgAjU9VFAAAAAElFTkSuQmCC "
+       id="image8722"
+       x="59"
+       y="-222" />
+    <rect
+       id="rect1947"
+       width="28"
+       height="30"
+       x="69"
+       y="-222"
+       class="ColorScheme-Background"
+       fill="currentColor" />
+  </g>
+  <rect
+     id="decoration-center"
+     width="80"
+     height="30"
+     x="38"
+     y="35"
+     class="ColorScheme-Background"
+     fill="currentColor" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#decoration-left"
+     id="decoration-right"
+     transform="matrix(-1,0,0,1,156,0)"
+     width="100%"
+     height="100%" />
+</svg>

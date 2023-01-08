@@ -6,7 +6,7 @@
    viewBox="0 0 121 56"
    id="svg86"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,15 +21,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="3.6681164"
-     inkscape:cx="94.87158"
-     inkscape:cy="115.04542"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:zoom="7.3362328"
+     inkscape:cx="51.593237"
+     inkscape:cy="126.22282"
+     inkscape:window-width="1368"
+     inkscape:window-height="689"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg86">
+     inkscape:current-layer="svg86"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid922" />
@@ -162,8 +164,6 @@
          transform="translate(0,904.36)"
          d="m-5-12v24h18c0-3.324 2.676-6 6-6v-18z"
          fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
          id="path15"
          style="opacity:0.2" />
       <path
@@ -207,8 +207,6 @@
        width="18"
        height="32"
        fill="url(#linearGradient948)"
-       opacity=".1"
-       stroke-width="1.732"
        id="rect25"
        style="opacity:0.2" />
     <rect
@@ -487,8 +485,6 @@
          transform="translate(0,904.36)"
          d="M -5,-12 V 12 H 13 C 13,8.676 15.676,6 19,6 V -12 Z"
          fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
          id="path15-3"
          style="opacity:0.2;fill:url(#radialGradient1259-7)" />
       <path
@@ -504,7 +500,7 @@
        id="path19-6"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
   </g>
   <g
      id="blurred-top"
@@ -518,7 +514,7 @@
        height="32"
        id="rect23-2"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-910.35999"
@@ -526,8 +522,6 @@
        width="18"
        height="32"
        fill="url(#linearGradient948)"
-       opacity=".1"
-       stroke-width="1.732"
        id="rect25-9"
        style="opacity:0.2;fill:url(#linearGradient1956)" />
     <rect
@@ -558,7 +552,7 @@
        height="32"
        id="rect45-7"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
   </g>
   <rect
      id="blurred-hint-top-margin"
