@@ -25,9 +25,9 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="210.74999"
-     inkscape:cy="56.499999"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="222.49999"
+     inkscape:cy="21.999999"
      inkscape:window-width="1368"
      inkscape:window-height="689"
      inkscape:window-x="0"
@@ -387,8 +387,7 @@
        id="rect1161-7"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
        class="ColorScheme-Background"
-       fill="currentColor"
-       style="color:#2c2c2c;stop-color:#2c2c2c" />
+       fill="currentColor" />
     <path
        id="path369"
        d="M 81.000004 -250.00005 C 74.352011 -250.00005 69.000004 -244.64803 69.000004 -238.00005 L 69.000004 -237.00005 C 69.000004 -243.64803 74.352011 -249.00005 81.000004 -249.00005 L 97.000004 -249.00005 L 97.000004 -250.00005 L 81.000004 -250.00005 z "
