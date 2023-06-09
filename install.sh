@@ -99,6 +99,7 @@ install() {
   [[ -f ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
   [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
   [[ -d ${WALLPAPER_THEME} ]] && rm -rf ${WALLPAPER_THEME}
+  [[ -d ${WALLPAPER_DIR}/${name}${theme} ]] && rm -rf ${WALLPAPER_DIR}/${name}${theme}
 
   cp -r ${SRC_DIR}/aurorae/${name}${color}{'','-round'}                                      ${AURORAE_DIR}
 
@@ -126,6 +127,7 @@ install() {
   cp -r ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}                       ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}${theme}${color}       ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/wallpaper/${name}${theme}${color}                                         ${WALLPAPER_DIR}
+  cp -r ${SRC_DIR}/wallpaper/${name}${theme}                                                 ${WALLPAPER_DIR}
 }
 
 while [[ "$#" -gt 0 ]]; do
