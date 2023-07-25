@@ -26,12 +26,12 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:zoom="2.0000001"
-     inkscape:cx="37.749999"
-     inkscape:cy="41.499999"
-     inkscape:window-width="1368"
-     inkscape:window-height="689"
+     inkscape:cx="14.499999"
+     inkscape:cy="115.49999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg162"
      inkscape:showpageshadow="2"
@@ -407,8 +407,7 @@
        id="rect1465-6"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
        class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       fill="currentColor" />
     <path
        id="rect1161-7"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
@@ -434,8 +433,7 @@
        x="97"
        y="-192"
        class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       fill="currentColor" />
     <rect
        id="rect11337-5"
        width="80"
@@ -472,8 +470,7 @@
        x="97"
        y="-252"
        class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       fill="currentColor" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -503,8 +500,7 @@
        y="-69"
        transform="rotate(90)"
        class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       fill="currentColor" />
   </g>
   <rect
      id="decoration-inactive-center"
@@ -538,8 +534,7 @@
        id="rect1363-9"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
        class="ColorScheme-Highlight"
-       fill="currentColor"
-       style="color:#e0e0e0;stop-color:#e0e0e0" />
+       fill="currentColor" />
     <path
        id="rect955-3"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
