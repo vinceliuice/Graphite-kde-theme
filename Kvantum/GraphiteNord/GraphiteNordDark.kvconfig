@@ -15,7 +15,7 @@ menu_shadow_depth=6
 spread_menuitems=false
 tooltip_shadow_depth=2
 splitter_width=1
-scroll_width=9
+scroll_width=14
 scroll_arrows=false
 scroll_min_extent=60
 slider_width=2
@@ -53,7 +53,7 @@ layout_spacing=6
 layout_margin=9
 scrollbar_in_view=true
 transient_scrollbar=true
-transient_groove=true
+transient_groove=false
 submenu_overlap=0
 tooltip_delay=0
 tree_branch_line=true
@@ -123,6 +123,24 @@ centered_forms=false
 noninteger_translucency=false
 style_vertical_toolbars=false
 blur_only_active_window=true
+
+[BaseWidget]
+interior=true
+indicator.size=12
+frame=true
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
+frame.expansion=0
+text.margin=true
+text.margin.top=0
+text.margin.bottom=0
+text.margin.left=0
+text.margin.right=0
+text.bold=false
+text.shadow=0
+
 
 [PanelButtonCommand]
 frame=true
@@ -402,25 +420,25 @@ frame.expansion=0
 indicator.size=48
 
 [Scrollbar]
-inherits=PanelButtonCommand
-indicator.element=arrow
-indicator.size=12
+inherits=BaseWidget
+
+[ScrollbarGroove]
+inherits=BaseWidget
+interior=false
+frame.element=scrollbargroove
+frame.left=7
+frame.right=7
+frame.top=7
+frame.bottom=7
 
 [ScrollbarSlider]
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior=false
-frame.left=5
-frame.right=5
-frame.top=5
-frame.bottom=5
-indicator.element=grip
-indicator.size=12
-
-[ScrollbarGroove]
-inherits=PanelButtonCommand
-interior=false
-frame=false
+frame.left=7
+frame.right=7
+frame.top=7
+frame.bottom=7
 
 [Menu]
 inherits=PanelButtonCommand
