@@ -19,10 +19,10 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="2.8284274"
-     inkscape:cx="120.38492"
-     inkscape:cy="774.45863"
+     showgrid="true"
+     inkscape:zoom="16.000002"
+     inkscape:cx="390.31246"
+     inkscape:cy="369.09371"
      inkscape:window-width="1368"
      inkscape:window-height="687"
      inkscape:window-x="0"
@@ -42,7 +42,7 @@
        spacingy="1"
        spacingx="1"
        units="px"
-       visible="false" />
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs24">
@@ -3537,111 +3537,99 @@
      style="fill:#2c2c2c" />
   <rect
      id="menubar-normal"
-     x="307.53"
-     y="359.27"
+     x="307"
+     y="360"
      width="20"
      height="20"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-left"
      transform="rotate(90)"
-     x="359.27"
-     y="-307.53"
+     x="360"
+     y="-307"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-topleft"
      transform="rotate(90)"
-     x="354.27"
-     y="-307.53"
+     x="355"
+     y="-307"
      width="5"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-top"
-     x="307.53"
-     y="354.27"
+     x="307"
+     y="355"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-right"
      transform="rotate(90)"
-     x="359.27"
-     y="-332.53"
+     x="360"
+     y="-332"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-topright"
      transform="rotate(90)"
-     x="354.27"
-     y="-332.53"
+     x="355"
+     y="-332"
      width="5"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <g
      id="menubar-normal-bottomleft"
-     transform="translate(2.5269 -237.73)">
+     transform="translate(1.9969012,-236.99999)">
     <rect
        x="300"
        y="617"
        width="5"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1157"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <g
-       transform="matrix(.25 0 0 1 223.75 0)"
+       transform="matrix(0.25,0,0,1,223.75,0)"
        id="g1161">
       <path
-         d="m305 621h20v-3h-20z"
+         d="m 305,621 h 20 v -3 h -20 z"
          opacity="0"
          id="path1159" />
     </g>
   </g>
   <g
      id="menubar-normal-bottomright"
-     transform="translate(2.5269 -237.73)">
+     transform="translate(1.9969012,-236.99999)">
     <rect
        x="325"
        y="617"
        width="5"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1164"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <g
-       transform="matrix(.25 0 0 1 248.75 0)"
+       transform="matrix(0.25,0,0,1,248.75,0)"
        fill="#b6b6b6"
        id="g1168">
       <path
-         d="m305 621h20v-3h-20z"
+         d="m 305,621 h 20 v -3 h -20 z"
          opacity="0"
          id="path1166" />
     </g>
   </g>
   <g
      id="menubar-normal-bottom"
-     transform="translate(2.5269 -237.73)">
+     transform="translate(1.9969012,-236.99999)">
     <rect
        x="305"
        y="617"
        width="20"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1171"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <rect
        x="305"
        y="618"
@@ -3652,111 +3640,99 @@
   </g>
   <rect
      id="menubar-normal-inactive"
-     x="342.53"
-     y="359.27"
+     x="342"
+     y="360"
      width="20"
      height="20"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-inactive-left"
      transform="rotate(90)"
-     x="359.27"
-     y="-342.53"
+     x="360"
+     y="-342"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-inactive-topleft"
      transform="rotate(90)"
-     x="354.27"
-     y="-342.53"
+     x="355"
+     y="-342"
      width="5"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-inactive-top"
-     x="342.53"
-     y="354.27"
+     x="342"
+     y="355"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-inactive-right"
      transform="rotate(90)"
-     x="359.27"
-     y="-367.53"
+     x="360"
+     y="-367"
      width="20"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <rect
      id="menubar-normal-inactive-topright"
      transform="rotate(90)"
-     x="354.27"
-     y="-367.53"
+     x="355"
+     y="-367"
      width="5"
      height="5"
-     opacity=".35"
-     style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+     style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
   <g
      id="menubar-normal-inactive-bottomleft"
-     transform="translate(37.527 -237.73)">
+     transform="translate(36.997001,-236.99999)">
     <rect
        x="300"
        y="617"
        width="5"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1182"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <g
-       transform="matrix(.25 0 0 1 223.75 0)"
+       transform="matrix(0.25,0,0,1,223.75,0)"
        id="g1186">
       <path
-         d="m305 621h20v-3h-20z"
+         d="m 305,621 h 20 v -3 h -20 z"
          opacity="0"
          id="path1184" />
     </g>
   </g>
   <g
      id="menubar-normal-inactive-bottomright"
-     transform="translate(37.527 -237.73)">
+     transform="translate(36.997001,-236.99999)">
     <rect
        x="325"
        y="617"
        width="5"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1189"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <g
-       transform="matrix(.25 0 0 1 248.75 0)"
+       transform="matrix(0.25,0,0,1,248.75,0)"
        fill="#b6b6b6"
        id="g1193">
       <path
-         d="m305 621h20v-3h-20z"
+         d="m 305,621 h 20 v -3 h -20 z"
          opacity="0"
          id="path1191" />
     </g>
   </g>
   <g
      id="menubar-normal-inactive-bottom"
-     transform="translate(37.527 -237.73)">
+     transform="translate(36.997001,-236.99999)">
     <rect
        x="305"
        y="617"
        width="20"
        height="4"
-       opacity=".35"
-       stroke-width="2"
        id="rect1196"
-       style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1" />
     <rect
        x="305"
        y="618"
@@ -6434,5 +6410,253 @@
        d="m 73,860 v 23 h 8 v -23 z"
        id="path9536"
        style="opacity:0.1;fill:#ffffff" />
+  </g>
+  <rect
+     id="toolbar-normal"
+     x="385"
+     y="360"
+     width="20"
+     height="20"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-left"
+     transform="rotate(90)"
+     x="360"
+     y="-385"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-topleft"
+     transform="rotate(90)"
+     x="355"
+     y="-385"
+     width="5"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-top"
+     x="385"
+     y="355"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-right"
+     transform="rotate(90)"
+     x="360"
+     y="-409.99997"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-topright"
+     transform="rotate(90)"
+     x="355"
+     y="-409.99997"
+     width="5"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <g
+     id="toolbar-normal-bottomleft"
+     transform="translate(79.996886,-237)">
+    <rect
+       x="300"
+       y="617"
+       width="5"
+       height="6"
+       id="rect1157-5"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <g
+       transform="matrix(0.25,0,0,1,223.75,0)"
+       id="g1161-3">
+      <path
+         d="m 305,621 h 20 v -3 h -20 z"
+         opacity="0"
+         id="path1159-5" />
+    </g>
+    <rect
+       x="300"
+       y="621"
+       width="5"
+       height="2"
+       id="rect1"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707107" />
+  </g>
+  <g
+     id="toolbar-normal-bottomright"
+     transform="translate(79.996886,-237)">
+    <rect
+       x="325"
+       y="617"
+       width="5"
+       height="6"
+       id="rect1164-6"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <g
+       transform="matrix(0.25,0,0,1,248.75,0)"
+       fill="#b6b6b6"
+       id="g1168-2">
+      <path
+         d="m 305,621 h 20 v -3 h -20 z"
+         opacity="0"
+         id="path1166-9" />
+    </g>
+    <rect
+       x="325"
+       y="621"
+       width="5"
+       height="2"
+       id="rect3"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707104" />
+  </g>
+  <g
+     id="toolbar-normal-bottom"
+     transform="translate(79.996886,-237)">
+    <rect
+       x="305"
+       y="617"
+       width="20"
+       height="6"
+       id="rect1171-1"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <rect
+       x="305"
+       y="618"
+       width="20"
+       height="3"
+       opacity="0"
+       id="rect1173-2" />
+    <rect
+       x="305"
+       y="621"
+       width="20"
+       height="2"
+       id="rect2"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707104" />
+  </g>
+  <rect
+     id="toolbar-normal-inactive"
+     x="419.99997"
+     y="360"
+     width="20"
+     height="20"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-inactive-left"
+     transform="rotate(90)"
+     x="360"
+     y="-419.99997"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-inactive-topleft"
+     transform="rotate(90)"
+     x="355"
+     y="-419.99997"
+     width="5"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-inactive-top"
+     x="419.99997"
+     y="355"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-inactive-right"
+     transform="rotate(90)"
+     x="360"
+     y="-445"
+     width="20"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <rect
+     id="toolbar-normal-inactive-topright"
+     transform="rotate(90)"
+     x="355"
+     y="-445"
+     width="5"
+     height="5"
+     style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.999999" />
+  <g
+     id="toolbar-normal-inactive-bottomleft"
+     transform="translate(114.99699,-237)">
+    <rect
+       x="300"
+       y="617"
+       width="5"
+       height="6"
+       id="rect1182-7"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <g
+       transform="matrix(0.25,0,0,1,223.75,0)"
+       id="g1186-0">
+      <path
+         d="m 305,621 h 20 v -3 h -20 z"
+         opacity="0"
+         id="path1184-9" />
+    </g>
+    <rect
+       x="300"
+       y="621"
+       width="5"
+       height="2"
+       id="rect4"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707104" />
+  </g>
+  <g
+     id="toolbar-normal-inactive-bottomright"
+     transform="translate(114.99699,-237)">
+    <rect
+       x="325"
+       y="617"
+       width="5"
+       height="6"
+       id="rect1189-3"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <g
+       transform="matrix(0.25,0,0,1,248.75,0)"
+       fill="#b6b6b6"
+       id="g1193-6">
+      <path
+         d="m 305,621 h 20 v -3 h -20 z"
+         opacity="0"
+         id="path1191-0" />
+    </g>
+    <rect
+       x="325"
+       y="621"
+       width="5"
+       height="2"
+       id="rect5"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707104" />
+  </g>
+  <g
+     id="toolbar-normal-inactive-bottom"
+     transform="translate(114.99699,-237)">
+    <rect
+       x="305"
+       y="617"
+       width="20"
+       height="6"
+       id="rect1196-6"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke-width:1.22474" />
+    <rect
+       x="305"
+       y="618"
+       width="20"
+       height="3"
+       opacity="0"
+       id="rect1198-2" />
+    <rect
+       x="305"
+       y="621"
+       width="20"
+       height="2"
+       id="rect6"
+       style="opacity:0.12;fill:#ffffff;fill-opacity:1;stroke-width:0.707104" />
   </g>
 </svg>
