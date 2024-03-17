@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Id": "Graphite-nord-dark",
+        "License": "CC BY-NC-SA 3.0",
+        "Name": "Graphite-nord-dark"
+    }
+}

@@ -5,7 +5,7 @@
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,13 +25,13 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="14.499999"
-     inkscape:cy="115.49999"
+     inkscape:zoom="5.8548739"
+     inkscape:cx="-15.628005"
+     inkscape:cy="44.492845"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
-     inkscape:window-y="35"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg162"
      inkscape:showpageshadow="2"
@@ -92,7 +92,8 @@
      height="100%"
      xlink:href="#decoration-topleft"
      x="0"
-     y="0" />
+     y="0"
+     style="fill:#e0e0e0;fill-opacity:1" />
   <g
      id="decoration-topleft"
      transform="translate(-59,257)">
@@ -109,7 +110,8 @@
        id="rect1465"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
@@ -135,7 +137,8 @@
        x="97"
        y="-192"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <rect
        id="rect11337"
        width="80"
@@ -172,7 +175,8 @@
        x="97"
        y="-252"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
   </g>
   <g
      id="decoration-left"
@@ -202,7 +206,8 @@
        y="-69"
        transform="rotate(90)"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
   </g>
   <rect
      id="decoration-center"
@@ -219,7 +224,8 @@
      id="decoration-right"
      transform="matrix(-1,0,0,1,156,0)"
      width="100%"
-     height="100%" />
+     height="100%"
+     style="fill:#e0e0e0;fill-opacity:1" />
   <g
      id="decoration-bottomleft">
     <image
@@ -235,7 +241,8 @@
        id="rect1363"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <path
        id="rect955"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
@@ -249,7 +256,8 @@
      id="decoration-bottomright"
      transform="matrix(-1,0,0,1,156,0)"
      width="100%"
-     height="100%" />
+     height="100%"
+     style="fill:#e0e0e0;fill-opacity:1" />
   <g
      id="mask-topright"
      transform="matrix(-1,0,0,1,432,257)">
@@ -390,7 +398,8 @@
      height="100%"
      xlink:href="#decoration-inactive-topleft"
      x="0"
-     y="0" />
+     y="0"
+     style="fill:#e0e0e0;fill-opacity:1" />
   <g
      id="decoration-inactive-topleft"
      transform="translate(-57.000004,392.00005)">
@@ -407,7 +416,8 @@
        id="rect1465-6"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <path
        id="rect1161-7"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
@@ -433,7 +443,8 @@
        x="97"
        y="-192"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <rect
        id="rect11337-5"
        width="80"
@@ -470,7 +481,8 @@
        x="97"
        y="-252"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -500,7 +512,8 @@
        y="-69"
        transform="rotate(90)"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
   </g>
   <rect
      id="decoration-inactive-center"
@@ -517,7 +530,8 @@
      id="decoration-inactive-right"
      transform="matrix(-1,0,0,1,159.99998,-5.1001953e-6)"
      width="100%"
-     height="100%" />
+     height="100%"
+     style="fill:#e0e0e0;fill-opacity:1" />
   <g
      id="decoration-inactive-bottomleft"
      transform="translate(1.9999934,135.00003)">
@@ -534,7 +548,8 @@
        id="rect1363-9"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
        class="ColorScheme-Highlight"
-       fill="currentColor" />
+       fill="currentColor"
+       style="fill:#e0e0e0;fill-opacity:1" />
     <path
        id="rect955-3"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
@@ -548,5 +563,6 @@
      id="decoration-inactive-bottomright"
      transform="matrix(-1,0,0,1,159.99998,-5.1001953e-6)"
      width="100%"
-     height="100%" />
+     height="100%"
+     style="fill:#e0e0e0;fill-opacity:1" />
 </svg>

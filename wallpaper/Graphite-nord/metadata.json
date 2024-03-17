@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "Graphite Nord Wallpapers",
+        "EnabledByDefault": true,
+        "Id": "Graphite-nord",
+        "License": "CC-BY-SA",
+        "Name": "Graphite-nord",
+        "Version": "1.0",
+        "Website": "https://github.com/vinceliuice/Graphite-kde-theme"
+    },
+    "X-Plasma-API": "5.0"
+}
