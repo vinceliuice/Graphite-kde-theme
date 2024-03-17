@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "vince liuice"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "Graphite-dark-round",
+        "License": "GPL_V3",
+        "Name": "Graphite-dark-round",
+        "Version": "0.3"
+    },
+    "X-KDE-PluginInfo-blur": "false"
+}
