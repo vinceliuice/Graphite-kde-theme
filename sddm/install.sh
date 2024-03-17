@@ -39,6 +39,7 @@ prompt () {
 if [ "$UID" -eq "$ROOT_UID" ]; then
   prompt -i "\n * Install Graphite in ${THEME_DIR}... "
   cp -r "${REO_DIR}/Graphite" "${THEME_DIR}"
+  cp -r "${REO_DIR}/Graphite-plasma6" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else
