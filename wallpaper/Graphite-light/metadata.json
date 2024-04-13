@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Id": "Graphite-light",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Graphite-light"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#ce55cf"
+}
