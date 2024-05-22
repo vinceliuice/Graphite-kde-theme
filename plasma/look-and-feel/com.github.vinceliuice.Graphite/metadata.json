@@ -14,6 +14,8 @@
         "Name": "Graphite",
         "Website": "https://github.com/vinceliuice/Graphite-kde-theme",
         "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
-        "X-Plasma-APIVersion": "2"
+        "X-Plasma-APIVersion": "2",
+        "X-Plasma-MainScript": "defaults",
+        "X-KPackage-Dependencies": "kns://colorschemes.knsrc/api.kde-look.org/1667590,kns://plasma-themes.knsrc/api.kde-look.org/1667573,kns://aurorae.knsrc/api.kde-look.org/1667583,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1667584,kns://sddmtheme.knsrc/api.kde-look.org/1667585,kns://xcursor.knsrc/api.kde-look.org/1651517"
     }
 }
