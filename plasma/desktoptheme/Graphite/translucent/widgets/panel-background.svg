@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg118"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,11 +21,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="58.866639"
-     inkscape:cy="56.038212"
-     inkscape:window-width="1440"
-     inkscape:window-height="731"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="123.03658"
+     inkscape:cy="43.310291"
+     inkscape:window-width="1920"
+     inkscape:window-height="947"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -33,10 +33,18 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid986" />
+       id="grid986"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs16">
@@ -346,15 +354,17 @@
      id="mask-topleft"
      transform="matrix(1.5,0,0,1.5,95.499997,-1359.5)">
     <path
-       d="M 23.666667,910.36 C 17.757333,910.36 13,915.11733 13,921.02667 h 10.666667 z"
-       id="path95" />
+       d="M 23.666667,911 C 18.111893,911 13.64,915.47189 13.64,921.02667 h 10.026667 z"
+       id="path95"
+       style="stroke-width:0.94" />
   </g>
   <g
      id="mask-topright"
      transform="matrix(2,0,0,2,44.999997,-1814.72)">
     <path
-       d="m 49,910.36 v 8 h 8 c 0,-4.432 -3.568,-8 -8,-8 z"
-       id="path98" />
+       d="m 49,910.86 v 7.5 h 7.500001 c 0,-4.155 -3.345,-7.5 -7.500001,-7.5 z"
+       id="path98"
+       style="stroke-width:0.9375" />
   </g>
   <g
      id="mask-bottom"
@@ -371,15 +381,17 @@
      id="mask-bottomleft"
      transform="matrix(1.3333333,0,0,1.3333333,97.666667,-1222.48)">
     <path
-       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 z"
-       id="path104" />
+       d="m 13.75,942.36 c 0,6.2325 5.0175,11.25 11.25,11.25 v -11.25 z"
+       id="path104"
+       style="stroke-width:0.9375" />
   </g>
   <g
      id="mask-bottomright"
      transform="matrix(1.3333333,0,0,1.3333333,82.999998,-1222.48)">
     <path
-       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 z"
-       id="path107" />
+       d="m 45,942.36 v 11.25002 c 6.232513,0 11.250024,-5.01751 11.250024,-11.25002 z"
+       id="path107"
+       style="stroke-width:0.937502" />
   </g>
   <g
      id="mask-left"
