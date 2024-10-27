@@ -100,6 +100,7 @@ install() {
   [[ -f ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
   [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
   [[ -d ${WALLPAPER_THEME} ]] && rm -rf ${WALLPAPER_THEME}
+  [[ -d ${WALLPAPER_DIR}/${name}${theme}${color} ]] && rm -rf ${WALLPAPER_DIR}/${name}${theme}${color}
   [[ -d ${WALLPAPER_DIR}/${name}${theme} ]] && rm -rf ${WALLPAPER_DIR}/${name}${theme}
 
   cp -r ${SRC_DIR}/aurorae/${name}${color}{'','-round'}                                      ${AURORAE_DIR}
