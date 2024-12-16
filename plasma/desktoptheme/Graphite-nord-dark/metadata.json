@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "Graphite-nord-dark by Vince Liuice",
+        "EnabledByDefault": true,
+        "Id": "Graphite-nord-dark",
+        "License": "GPL-3.0",
+        "Name": "Graphite-nord-dark",
+        "Version": "6.2.0",
+        "Website": "https://github.com/vinceliuice"
+    },
+    "X-Plasma-API": "5.0"
+}
