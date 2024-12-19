@@ -144,7 +144,7 @@ SessionManagementScreen {
 
     Image {
         id: loginButton
-        source: "assets/login.svgz"
+        source: "assets/login.svg"
         smooth: true
         sourceSize: Qt.size(passwordBox.height, passwordBox.height)
         anchors {
