@@ -163,6 +163,10 @@ frame.expansion=0
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
+frame.top=2
+frame.bottom=2
+text.margin.top=0
+text.margin.bottom=0
 text.normal.color=#dfdfdf
 text.focus.color=white
 text.press.color=white
@@ -568,6 +572,8 @@ text.shadow=0
 text.margin=0
 interior.element=tooltip
 frame.element=tooltip
+text.normal.color=#efefef
+text.focus.color=#ffffff
 frame.expansion=6
 
 [StatusBar]

@@ -158,53 +158,53 @@
      class="ColorScheme-Highlight"
      d="m 17,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-right"
      class="ColorScheme-Highlight"
      d="m 17,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-topright"
      class="ColorScheme-Highlight"
      d="m 17,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-bottomleft"
      class="ColorScheme-Highlight"
      d="m 10,27 c 0,1.662 1.338,3 3,3 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-left"
      class="ColorScheme-Highlight"
      d="m 10,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-topleft"
      class="ColorScheme-Highlight"
      d="m 13,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-bottom"
      class="ColorScheme-Highlight"
      d="m 14,27 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-center"
      class="ColorScheme-Highlight"
      d="m 16,24 h -2 v 2 h 2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
   <path
      id="bar-active-top"
      class="ColorScheme-Highlight"
      d="m 14,20 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+   style="fill:currentColor" />
 </svg>

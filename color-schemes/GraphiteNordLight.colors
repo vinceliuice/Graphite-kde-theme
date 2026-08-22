@@ -89,16 +89,16 @@ ForegroundPositive=128,255,128
 ForegroundVisited=224,64,251
 
 [Colors:Tooltip]
-BackgroundAlternate=37,42,51
-BackgroundNormal=37,42,51
+BackgroundAlternate=245,245,245
+BackgroundNormal=249,250,251
 DecorationFocus=163,163,163
 DecorationHover=180,180,180
-ForegroundActive=255,128,224
+ForegroundActive=51,58,71
 ForegroundInactive=136,136,136
 ForegroundLink=0,170,255
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=249,250,251
+ForegroundNormal=51,58,71
 ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
