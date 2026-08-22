@@ -46,6 +46,6 @@
       }</style>
  </defs>
  <g transform="translate(0 -904.36)">
-  <path id="event" class="ColorScheme-Highlight" d="m30 918.36-16 16h16z" fill="#4285f4"/>
+  <path id="event" class="ColorScheme-Highlight" d="m30 918.36-16 16h16z" fill="currentColor"/>
  </g>
 </svg>

@@ -45,44 +45,44 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#dfdfdf;
+        stop-color:#dfdfdf;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#2c2c2c;
+        stop-color:#2c2c2c;
       }
       .ColorScheme-Highlight {
         color:#3281ea;
         stop-color:#3281ea;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#dfdfdf;
+        stop-color:#dfdfdf;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#2c2c2c;
+        stop-color:#2c2c2c;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4d4d4d;
+        stop-color:#4d4d4d;
       }
       .ColorScheme-ViewFocus{
         color:#3281ea;
         stop-color:#3281ea;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#dfdfdf;
+        stop-color:#dfdfdf;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#2c2c2c;
+        stop-color:#2c2c2c;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#4d4d4d;
+        stop-color:#4d4d4d;
       }
       .ColorScheme-ButtonFocus{
         color:#3281ea;
@@ -370,7 +370,7 @@
      height="19.999992"
      width="19.999992"
      id="shadow-center-5"
-     style="color:#eff0f1;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.625;stop-color:#eff0f1" />
+     style="color:#2c2c2c;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.625;stop-color:#2c2c2c" />
   <rect
      style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182575"
      id="hint-top-inset"

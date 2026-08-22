@@ -53,24 +53,26 @@
   <defs
      id="defs19">
     <linearGradient
-       id="linearGradient4303">
+       id="linearGradient4303"
+       class="ColorScheme-Highlight">
       <stop
-         style="stop-color:#00626d"
+          style="stop-color:currentColor"
          offset="0"
          id="stop2" />
       <stop
-         style="stop-color:#4285f4"
+          style="stop-color:currentColor"
          offset="1"
          id="stop4" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4291">
+     <linearGradient
+        id="linearGradient4291"
+        class="ColorScheme-Highlight">
       <stop
-         style="stop-color:#007584"
+          style="stop-color:currentColor"
          offset="0"
          id="stop7" />
       <stop
-         style="stop-color:#4285f4"
+          style="stop-color:currentColor"
          offset="1"
          id="stop9" />
     </linearGradient>
