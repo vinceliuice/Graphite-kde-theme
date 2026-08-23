@@ -198,8 +198,7 @@
        id="path914"
        d="M 60 4 C 50.029963 4 42.003159 12.024869 42 21.994141 L 44 21.994141 C 44 13.129813 51.135673 5.9921875 60 5.9921875 L 60 4 z "
        transform="matrix(0.85711837,0,0,0.85711837,-55.427274,931.51624)"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <rect
      id="hint-tile-center"
@@ -307,8 +306,7 @@
        width="0.85715508"
        height="32"
        id="rect1660"
-       fill="currentColor"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <rect
      id="shadow-hint-top-margin"

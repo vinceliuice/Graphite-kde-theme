@@ -136,8 +136,7 @@
     <path
        id="rect1465"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.352 -12,12 v 16 h 28 v -28 z"
@@ -160,8 +159,7 @@
        id="rect2029"
        d="M 8 65 C 8 66.108 8.892 67 10 67 L 38 67 L 38 65 L 8 65 z "
        transform="translate(59,-257)"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="decoration-bottom"
@@ -181,8 +179,7 @@
        height="2"
        x="97"
        y="-192"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="decoration-top"
@@ -210,8 +207,7 @@
        height="2"
        x="97"
        y="-252"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="decoration-left"
@@ -240,8 +236,7 @@
        x="-222"
        y="-69"
        transform="rotate(90)"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <rect
      id="decoration-center"
