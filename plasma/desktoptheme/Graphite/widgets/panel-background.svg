@@ -167,8 +167,7 @@
        width="0.85715508"
        height="32"
        id="rect1660"
-       fill="currentColor"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <use
      x="0"
@@ -204,8 +203,7 @@
     <path
        id="path914"
        d="m -4.0001714,934.95085 c -8.5455026,0 -15.4254236,6.88051 -15.4281306,15.42813 h 1.714236 c 0,-7.60025 6.116117,-13.71386 13.7138946,-13.71386 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor"
+       class="ColorScheme-ButtonFocus" fill="currentColor"
        sodipodi:nodetypes="ccccc" />
   </g>
   <use

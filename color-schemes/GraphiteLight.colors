@@ -8,13 +8,13 @@ IntensityAmount=0.1
 IntensityEffect=0
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
+ChangeSelectionColor=false
 Color=120,120,120
 ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
 ContrastEffect=2
-Enable=true
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
@@ -85,6 +85,20 @@ ForegroundLink=138,204,244
 ForegroundNegative=156,14,14
 ForegroundNeutral=255,221,0
 ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=224,64,251
+
+[Colors:Selection][Inactive]
+BackgroundAlternate=224,224,224
+BackgroundNormal=224,224,224
+DecorationFocus=88,177,244
+DecorationHover=111,181,255
+ForegroundActive=255,255,255
+ForegroundInactive=150,150,150
+ForegroundLink=138,204,244
+ForegroundNegative=156,14,14
+ForegroundNeutral=255,221,0
+ForegroundNormal=51,51,51
 ForegroundPositive=128,255,128
 ForegroundVisited=224,64,251
 

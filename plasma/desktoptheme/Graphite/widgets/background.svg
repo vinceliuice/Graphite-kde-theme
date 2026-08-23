@@ -170,8 +170,7 @@
          id="path883"
          d="M 34 4 C 29.568 4 26 7.568 26 12 L 28 12 C 28 8.676 30.676 6 34 6 L 34 5.3339844 L 34 4 z "
          transform="translate(-15,904.36)"
-         class="ColorScheme-Highlight"
-         fill="currentColor" />
+         class="ColorScheme-ButtonFocus" fill="currentColor" />
     </g>
     <path
        transform="translate(0,904.36)"
@@ -217,7 +216,7 @@
        height="32"
        id="rect908"
        fill="currentColor"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonFocus" />
   </g>
   <g
      id="center"
@@ -491,8 +490,7 @@
          id="path883-5"
          d="m 34,4 c -4.432,0 -8,3.568 -8,8 h 2 C 28,8.676 30.676,6 34,6 V 5.3339844 Z"
          transform="translate(-15,904.36)"
-         class="ColorScheme-Highlight"
-         fill="currentColor" />
+         class="ColorScheme-ButtonFocus" fill="currentColor" />
     </g>
     <path
        transform="translate(0,904.36)"
@@ -532,7 +530,7 @@
        height="32"
        id="rect908-1"
        fill="currentColor"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonFocus" />
   </g>
   <g
      id="blurred-center"

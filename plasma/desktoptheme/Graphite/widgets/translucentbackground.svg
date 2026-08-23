@@ -531,8 +531,7 @@
          id="path883"
          d="m 34,4 c -4.432,0 -8,3.568 -8,8 h 2 C 28,8.676 30.676,6 34,6 V 5.3339844 Z"
          transform="translate(-15,904.36)"
-         class="ColorScheme-Highlight"
-         fill="currentColor" />
+         class="ColorScheme-ButtonFocus" fill="currentColor" />
     </g>
     <path
        transform="translate(0,904.36)"
@@ -580,8 +579,7 @@
        width="2"
        height="32"
        id="rect908"
-       fill="currentColor"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="center"

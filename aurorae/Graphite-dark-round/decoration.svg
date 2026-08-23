@@ -108,8 +108,7 @@
     <path
        id="rect1465"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <path
        id="rect1161"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
@@ -134,8 +133,7 @@
        height="2"
        x="97"
        y="-192"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <rect
        id="rect11337"
        width="80"
@@ -171,8 +169,7 @@
        height="2"
        x="97"
        y="-252"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="decoration-left"
@@ -201,8 +198,7 @@
        x="-222"
        y="-69"
        transform="rotate(90)"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <rect
      id="decoration-center"
@@ -234,8 +230,7 @@
     <path
        id="rect1363"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <path
        id="rect955"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
@@ -406,8 +401,7 @@
     <path
        id="rect1465-6"
        d="m 81,-252 c -7.756,0 -14,6.244 -14,14 v 16 h 2 v -16 c 0,-6.648 5.352,-12 12,-12 h 16 v -2 z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <path
        id="rect1161-7"
        d="m 81,-250 c -6.648,0 -12,5.35201 -12,12 v 16 h 28 v -28 z"
@@ -432,8 +426,7 @@
        height="2"
        x="97"
        y="-192"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <rect
        id="rect11337-5"
        width="80"
@@ -469,8 +462,7 @@
        height="2"
        x="97"
        y="-252"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -499,8 +491,7 @@
        x="-222"
        y="-69"
        transform="rotate(90)"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
   </g>
   <rect
      id="decoration-inactive-center"
@@ -533,8 +524,7 @@
     <path
        id="rect1363-9"
        d="m 8,65 c 0,6.648 5.352,12 12,12 H 38 V 65 Z"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
+       class="ColorScheme-ButtonFocus" fill="currentColor" />
     <path
        id="rect955-3"
        d="m 10,65 c 0,5.54 4.46,10 10,10 H 38 V 65 Z"
